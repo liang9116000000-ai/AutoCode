@@ -4,16 +4,35 @@
   <id>com.example.ai.copilot</id>
   <name>DeepSeek Code Assistant</name>
   <vendor>Example</vendor>
-  <description><![CDATA[DeepSeek 代码助手 - 使用 DeepSeek API 实现智能代码修改。
-        <br><br>
-        功能：
-        <ul>
-            <li>选中代码后发送修改指令</li>
-            <li>AI 生成修改后的代码</li>
-            <li>一键应用修改到编辑器</li>
-        </ul>
-        <br>
-        设置 → Tools → DeepSeek Code 配置 API Key]]></description>
+  <description><![CDATA[DeepSeek Code Assistant - An intelligent coding tool powered by DeepSeek API for seamless code modifications.
+
+
+
+    <b>Features:</b>
+    <ul>
+        <li>Select code and send modification instructions directly.</li>
+        <li>AI-generated code suggestions based on your context.</li>
+        <li>One-click to apply changes back to the editor.</li>
+    </ul>
+
+
+    <b>Usage:</b>
+    Go to Settings → Tools → DeepSeek Code to configure your API Key.
+
+
+
+    DeepSeek 代码助手 - 使用 DeepSeek API 实现智能代码修改。
+
+
+    功能：
+    <ul>
+        <li>选中代码后发送修改指令</li>
+        <li>AI 生成修改后的代码</li>
+        <li>一键应用修改到编辑器</li>
+    </ul>
+
+
+    设置 → Tools → DeepSeek Code 配置 API Key]]></description>
   <depends>com.intellij.modules.platform</depends>
   <extensions defaultExtensionNs="com.intellij">
     <toolWindow id="DeepSeek Code" anchor="right" icon="/icons/ai-copilot.svg" factoryClass="com.example.copilot.CopilotToolWindowFactory" />

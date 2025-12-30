@@ -1,7 +1,0 @@
-<project>
-  <component name="ExternalCompilerConfiguration">
-    <bytecodeTargetLevel>
-      <module name="ai" target="1.5" />
-    </bytecodeTargetLevel>
-  </component>
-</project>
