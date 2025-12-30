@@ -1,0 +1,31 @@
+<idea-plugin>
+  <version>0.1.0</version>
+  <idea-version since-build="223" until-build="233.*" />
+  <id>com.example.ai.copilot</id>
+  <name>DeepSeek Code Assistant</name>
+  <vendor>Example</vendor>
+  <description><![CDATA[DeepSeek 代码助手 - 使用 DeepSeek API 实现智能代码修改。
+        <br><br>
+        功能：
+        <ul>
+            <li>选中代码后发送修改指令</li>
+            <li>AI 生成修改后的代码</li>
+            <li>一键应用修改到编辑器</li>
+        </ul>
+        <br>
+        设置 → Tools → DeepSeek Code 配置 API Key]]></description>
+  <depends>com.intellij.modules.platform</depends>
+  <extensions defaultExtensionNs="com.intellij">
+    <toolWindow id="DeepSeek Code" anchor="right" icon="/icons/ai-copilot.svg" factoryClass="com.example.copilot.CopilotToolWindowFactory" />
+    <applicationService serviceImplementation="com.example.copilot.DeepSeekSettings" />
+    <applicationConfigurable parentId="tools" instance="com.example.copilot.DeepSeekConfigurable" id="com.example.copilot.settings" displayName="DeepSeek Code" />
+  </extensions>
+  <actions>
+    <action id="CopilotAction" class="com.example.copilot.CopilotAction" text="DeepSeek Code" description="使用 DeepSeek 修改代码" icon="/icons/ai-copilot.svg">
+      <add-to-group group-id="EditorPopupMenu" anchor="last" />
+      <add-to-group group-id="MainToolBar" anchor="last" />
+      <add-to-group group-id="NavBarToolBar" anchor="last" />
+      <keyboard-shortcut keymap="$default" first-keystroke="alt D" />
+    </action>
+  </actions>
+</idea-plugin>

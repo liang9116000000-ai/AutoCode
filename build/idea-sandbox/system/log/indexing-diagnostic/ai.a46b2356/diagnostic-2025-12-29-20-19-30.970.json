@@ -1,0 +1,734 @@
+{
+  "appInfo" : {
+    "build" : "223.7571.182",
+    "buildDate" : "2022-11-29T15:36:37.738Z[UTC]",
+    "productCode" : "IC",
+    "generated" : "2025-12-29T12:19:30.970559Z",
+    "os" : "Windows 10 10.0",
+    "runtime" : "JetBrains s.r.o. 17.0.5 17.0.5+1-b653.14"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 786432000,
+    "numberOfProcessors" : 4,
+    "maxNumberOfIndexingThreads" : 3,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "ai",
+    "times" : {
+      "indexingReason" : "changes in: \"JDK 17 C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.se, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jdi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jfr, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.net, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.rmi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.sql, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.xml, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jcmd, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.sctp, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.base, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jdeps, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jlink, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.zipfs, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.prefs, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.attach, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jshell, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jstatd, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.random, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.naming, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.editpad, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jartool, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.javadoc, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.xml.dom, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.desktop, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.logging, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.charsets, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.compiler, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.dynalink, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jconsole, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jpackage, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jsobject, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.compiler, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.net.http, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.crypto.ec, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.scripting, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.httpserver, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jdwp.agent, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.localedata, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.management, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.naming.dns, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.naming.rmi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.instrument, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.management, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.sql.rowset, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.xml.crypto, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.ed, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.le, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.nio.mapmode, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.unsupported, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.smartcardio, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.opt, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.datatransfer, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.accessibility, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.crypto.mscapi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.hotspot.agent, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.security.auth, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.security.sasl, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.vm.ci, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.management.jfr, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.management.rmi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.transaction.xa, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.crypto.cryptoki, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.incubator.vector, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.jvmstat, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.management.agent, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.incubator.foreign, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.unsupported.desktop, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.vm.compiler, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.vm.compiler.management, C:/Users/Mile/.jdks/ms-17.0.17!/java.base, C:/Users/Mile/.jdks/ms-17.0.17!/java.compiler, C:/Users/Mile/.jdks/ms-17.0.17!/java.datatransfer, C:/Users/Mile/.jdks/ms-17.0.17!/java.desktop, C:/Users/Mile/.jdks/ms-17.0.17!/java.instrument, C:/Users/Mile/.jdks/ms-17.0.17!/java.logging, C:/Users/Mile/.jdks/ms-17.0.17!/java.management, C:/Users/Mile/.jdks/ms-17.0.17!/java.management.rmi, C:/Users/Mile/.jdks/ms-17.0.17!/java.naming, C:/Users/Mile/.jdks/ms-17.0.17!/java.net.http, C:/Users/Mile/.jdks/ms-17.0.17!/java.prefs, C:/Users/Mile/.jdks/ms-17.0.17!/java.rmi, C:/Users/Mile/.jdks/ms-17.0.17!/java.scripting, C:/Users/Mile/.jdks/ms-17.0.17!/java.se, C:/Users/Mile/.jdks/ms-17.0.17!/java.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17!/java.security.sasl, C:/Users/Mile/.jdks/ms-17.0.17!/java.smartcardio, C:/Users/Mile/.jdks/ms-17.0.17!/java.sql, C:/Users/Mile/.jdks/ms-17.0.17!/java.sql.rowset, C:/Users/Mile/.jdks/ms-17.0.17!/java.transaction.xa, C:/Users/Mile/.jdks/ms-17.0.17!/java.xml, C:/Users/Mile/.jdks/ms-17.0.17!/java.xml.crypto, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.accessibility, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.attach, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.charsets, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.compiler, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.crypto.cryptoki, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.crypto.ec, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.crypto.mscapi, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.dynalink, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.editpad, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.hotspot.agent, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.httpserver, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.incubator.foreign, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.incubator.vector, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.ed, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.jvmstat, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.le, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.opt, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.vm.ci, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.vm.compiler, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.vm.compiler.management, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jartool, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.javadoc, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jcmd, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jconsole, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jdeps, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jdi, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jdwp.agent, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jfr, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jlink, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jpackage, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jshell, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jsobject, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jstatd, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.localedata, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.management, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.management.agent, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.management.jfr, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.naming.dns, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.naming.rmi, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.net, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.nio.mapmode, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.random, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.sctp, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.security.auth, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.unsupported, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.unsupported.desktop, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.xml.dom, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.zipfs\"",
+      "scanningType" : "PARTIAL",
+      "totalUpdatingTime" : 422621056700,
+      "indexingTime" : 378018930000,
+      "contentLoadingVisibleTime" : 93621506132,
+      "creatingIteratorsTime" : 0,
+      "scanFilesTime" : 44594847800,
+      "pushPropertiesTime" : 0,
+      "indexExtensionsTime" : 0,
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 122342520183,
+      "updatingStart" : "2025-12-29T12:12:28.3463023Z",
+      "updatingEnd" : "2025-12-29T12:19:30.9670606Z",
+      "totalSuspendedTime" : 0,
+      "wasInterrupted" : false
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 1,
+      "numberOfScannedFiles" : 42244,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 41892,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 41892
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "JAVA",
+      "partOfTotalProcessingTime" : {
+        "part" : 565951061500,
+        "total" : 1107564677400
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 140975108700,
+        "total" : 274304772400
+      },
+      "totalNumberOfFiles" : 14943,
+      "totalFilesSize" : 199726324,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 199726324,
+        "totalTime" : 565951061500
+      },
+      "biggestContributors" : [ {
+        "providerName" : "JDK 17 C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.se, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jdi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jfr, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.net, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.rmi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.sql, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.xml, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jcmd, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.sctp, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.base, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jdeps, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jlink, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.zipfs, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.prefs, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.attach, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jshell, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jstatd, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.random, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.naming, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.editpad, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jartool, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.javadoc, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.xml.dom, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.desktop, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.logging, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.charsets, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.compiler, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.dynalink, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jconsole, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jpackage, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jsobject, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.compiler, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.net.http, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.crypto.ec, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.scripting, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.httpserver, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jdwp.agent, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.localedata, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.management, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.naming.dns, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.naming.rmi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.instrument, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.management, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.sql.rowset, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.xml.crypto, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.ed, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.le, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.nio.mapmode, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.unsupported, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.smartcardio, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.opt, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.datatransfer, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.accessibility, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.crypto.mscapi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.hotspot.agent, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.security.auth, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.security.sasl, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.vm.ci, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.management.jfr, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.management.rmi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.transaction.xa, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.crypto.cryptoki, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.incubator.vector, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.jvmstat, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.management.agent, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.incubator.foreign, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.unsupported.desktop, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.vm.compiler, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.vm.compiler.management, C:/Users/Mile/.jdks/ms-17.0.17!/java.base, C:/Users/Mile/.jdks/ms-17.0.17!/java.compiler, C:/Users/Mile/.jdks/ms-17.0.17!/java.datatransfer, C:/Users/Mile/.jdks/ms-17.0.17!/java.desktop, C:/Users/Mile/.jdks/ms-17.0.17!/java.instrument, C:/Users/Mile/.jdks/ms-17.0.17!/java.logging, C:/Users/Mile/.jdks/ms-17.0.17!/java.management, C:/Users/Mile/.jdks/ms-17.0.17!/java.management.rmi, C:/Users/Mile/.jdks/ms-17.0.17!/java.naming, C:/Users/Mile/.jdks/ms-17.0.17!/java.net.http, C:/Users/Mile/.jdks/ms-17.0.17!/java.prefs, C:/Users/Mile/.jdks/ms-17.0.17!/java.rmi, C:/Users/Mile/.jdks/ms-17.0.17!/java.scripting, C:/Users/Mile/.jdks/ms-17.0.17!/java.se, C:/Users/Mile/.jdks/ms-17.0.17!/java.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17!/java.security.sasl, C:/Users/Mile/.jdks/ms-17.0.17!/java.smartcardio, C:/Users/Mile/.jdks/ms-17.0.17!/java.sql, C:/Users/Mile/.jdks/ms-17.0.17!/java.sql.rowset, C:/Users/Mile/.jdks/ms-17.0.17!/java.transaction.xa, C:/Users/Mile/.jdks/ms-17.0.17!/java.xml, C:/Users/Mile/.jdks/ms-17.0.17!/java.xml.crypto, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.accessibility, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.attach, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.charsets, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.compiler, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.crypto.cryptoki, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.crypto.ec, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.crypto.mscapi, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.dynalink, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.editpad, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.hotspot.agent, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.httpserver, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.incubator.foreign, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.incubator.vector, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.ed, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.jvmstat, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.le, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.opt, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.vm.ci, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.vm.compiler, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.vm.compiler.management, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jartool, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.javadoc, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jcmd, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jconsole, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jdeps, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jdi, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jdwp.agent, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jfr, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jlink, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jpackage, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jshell, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jsobject, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jstatd, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.localedata, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.management, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.management.agent, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.management.jfr, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.naming.dns, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.naming.rmi, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.net, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.nio.mapmode, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.random, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.sctp, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.security.auth, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.unsupported, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.unsupported.desktop, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.xml.dom, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.zipfs",
+        "numberOfFiles" : 14943,
+        "totalFilesSize" : 199726324,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 565951061500,
+          "total" : 565951061500
+        }
+      } ]
+    }, {
+      "fileType" : "CLASS",
+      "partOfTotalProcessingTime" : {
+        "part" : 522629875600,
+        "total" : 1107564677400
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 127045635100,
+        "total" : 274304772400
+      },
+      "totalNumberOfFiles" : 26690,
+      "totalFilesSize" : 121232327,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 121232327,
+        "totalTime" : 522629875600
+      },
+      "biggestContributors" : [ {
+        "providerName" : "JDK 17 C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.se, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jdi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jfr, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.net, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.rmi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.sql, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.xml, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jcmd, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.sctp, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.base, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jdeps, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jlink, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.zipfs, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.prefs, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.attach, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jshell, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jstatd, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.random, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.naming, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.editpad, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jartool, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.javadoc, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.xml.dom, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.desktop, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.logging, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.charsets, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.compiler, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.dynalink, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jconsole, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jpackage, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jsobject, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.compiler, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.net.http, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.crypto.ec, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.scripting, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.httpserver, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jdwp.agent, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.localedata, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.management, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.naming.dns, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.naming.rmi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.instrument, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.management, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.sql.rowset, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.xml.crypto, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.ed, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.le, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.nio.mapmode, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.unsupported, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.smartcardio, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.opt, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.datatransfer, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.accessibility, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.crypto.mscapi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.hotspot.agent, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.security.auth, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.security.sasl, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.vm.ci, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.management.jfr, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.management.rmi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.transaction.xa, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.crypto.cryptoki, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.incubator.vector, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.jvmstat, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.management.agent, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.incubator.foreign, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.unsupported.desktop, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.vm.compiler, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.vm.compiler.management, C:/Users/Mile/.jdks/ms-17.0.17!/java.base, C:/Users/Mile/.jdks/ms-17.0.17!/java.compiler, C:/Users/Mile/.jdks/ms-17.0.17!/java.datatransfer, C:/Users/Mile/.jdks/ms-17.0.17!/java.desktop, C:/Users/Mile/.jdks/ms-17.0.17!/java.instrument, C:/Users/Mile/.jdks/ms-17.0.17!/java.logging, C:/Users/Mile/.jdks/ms-17.0.17!/java.management, C:/Users/Mile/.jdks/ms-17.0.17!/java.management.rmi, C:/Users/Mile/.jdks/ms-17.0.17!/java.naming, C:/Users/Mile/.jdks/ms-17.0.17!/java.net.http, C:/Users/Mile/.jdks/ms-17.0.17!/java.prefs, C:/Users/Mile/.jdks/ms-17.0.17!/java.rmi, C:/Users/Mile/.jdks/ms-17.0.17!/java.scripting, C:/Users/Mile/.jdks/ms-17.0.17!/java.se, C:/Users/Mile/.jdks/ms-17.0.17!/java.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17!/java.security.sasl, C:/Users/Mile/.jdks/ms-17.0.17!/java.smartcardio, C:/Users/Mile/.jdks/ms-17.0.17!/java.sql, C:/Users/Mile/.jdks/ms-17.0.17!/java.sql.rowset, C:/Users/Mile/.jdks/ms-17.0.17!/java.transaction.xa, C:/Users/Mile/.jdks/ms-17.0.17!/java.xml, C:/Users/Mile/.jdks/ms-17.0.17!/java.xml.crypto, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.accessibility, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.attach, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.charsets, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.compiler, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.crypto.cryptoki, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.crypto.ec, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.crypto.mscapi, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.dynalink, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.editpad, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.hotspot.agent, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.httpserver, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.incubator.foreign, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.incubator.vector, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.ed, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.jvmstat, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.le, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.opt, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.vm.ci, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.vm.compiler, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.vm.compiler.management, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jartool, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.javadoc, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jcmd, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jconsole, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jdeps, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jdi, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jdwp.agent, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jfr, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jlink, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jpackage, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jshell, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jsobject, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jstatd, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.localedata, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.management, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.management.agent, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.management.jfr, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.naming.dns, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.naming.rmi, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.net, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.nio.mapmode, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.random, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.sctp, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.security.auth, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.unsupported, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.unsupported.desktop, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.xml.dom, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.zipfs",
+        "numberOfFiles" : 26690,
+        "totalFilesSize" : 121232327,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 522629875600,
+          "total" : 522629875600
+        }
+      } ]
+    }, {
+      "fileType" : "Properties",
+      "partOfTotalProcessingTime" : {
+        "part" : 16678732500,
+        "total" : 1107564677400
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 6041226800,
+        "total" : 274304772400
+      },
+      "totalNumberOfFiles" : 194,
+      "totalFilesSize" : 1893352,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 1893352,
+        "totalTime" : 16678732500
+      },
+      "biggestContributors" : [ {
+        "providerName" : "JDK 17 C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.se, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jdi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jfr, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.net, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.rmi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.sql, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.xml, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jcmd, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.sctp, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.base, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jdeps, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jlink, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.zipfs, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.prefs, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.attach, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jshell, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jstatd, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.random, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.naming, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.editpad, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jartool, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.javadoc, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.xml.dom, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.desktop, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.logging, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.charsets, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.compiler, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.dynalink, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jconsole, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jpackage, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jsobject, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.compiler, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.net.http, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.crypto.ec, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.scripting, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.httpserver, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jdwp.agent, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.localedata, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.management, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.naming.dns, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.naming.rmi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.instrument, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.management, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.sql.rowset, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.xml.crypto, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.ed, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.le, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.nio.mapmode, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.unsupported, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.smartcardio, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.opt, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.datatransfer, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.accessibility, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.crypto.mscapi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.hotspot.agent, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.security.auth, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.security.sasl, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.vm.ci, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.management.jfr, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.management.rmi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.transaction.xa, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.crypto.cryptoki, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.incubator.vector, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.jvmstat, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.management.agent, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.incubator.foreign, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.unsupported.desktop, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.vm.compiler, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.vm.compiler.management, C:/Users/Mile/.jdks/ms-17.0.17!/java.base, C:/Users/Mile/.jdks/ms-17.0.17!/java.compiler, C:/Users/Mile/.jdks/ms-17.0.17!/java.datatransfer, C:/Users/Mile/.jdks/ms-17.0.17!/java.desktop, C:/Users/Mile/.jdks/ms-17.0.17!/java.instrument, C:/Users/Mile/.jdks/ms-17.0.17!/java.logging, C:/Users/Mile/.jdks/ms-17.0.17!/java.management, C:/Users/Mile/.jdks/ms-17.0.17!/java.management.rmi, C:/Users/Mile/.jdks/ms-17.0.17!/java.naming, C:/Users/Mile/.jdks/ms-17.0.17!/java.net.http, C:/Users/Mile/.jdks/ms-17.0.17!/java.prefs, C:/Users/Mile/.jdks/ms-17.0.17!/java.rmi, C:/Users/Mile/.jdks/ms-17.0.17!/java.scripting, C:/Users/Mile/.jdks/ms-17.0.17!/java.se, C:/Users/Mile/.jdks/ms-17.0.17!/java.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17!/java.security.sasl, C:/Users/Mile/.jdks/ms-17.0.17!/java.smartcardio, C:/Users/Mile/.jdks/ms-17.0.17!/java.sql, C:/Users/Mile/.jdks/ms-17.0.17!/java.sql.rowset, C:/Users/Mile/.jdks/ms-17.0.17!/java.transaction.xa, C:/Users/Mile/.jdks/ms-17.0.17!/java.xml, C:/Users/Mile/.jdks/ms-17.0.17!/java.xml.crypto, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.accessibility, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.attach, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.charsets, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.compiler, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.crypto.cryptoki, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.crypto.ec, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.crypto.mscapi, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.dynalink, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.editpad, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.hotspot.agent, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.httpserver, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.incubator.foreign, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.incubator.vector, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.ed, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.jvmstat, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.le, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.opt, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.vm.ci, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.vm.compiler, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.vm.compiler.management, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jartool, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.javadoc, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jcmd, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jconsole, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jdeps, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jdi, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jdwp.agent, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jfr, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jlink, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jpackage, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jshell, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jsobject, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jstatd, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.localedata, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.management, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.management.agent, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.management.jfr, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.naming.dns, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.naming.rmi, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.net, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.nio.mapmode, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.random, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.sctp, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.security.auth, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.unsupported, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.unsupported.desktop, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.xml.dom, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.zipfs",
+        "numberOfFiles" : 194,
+        "totalFilesSize" : 1893352,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 16678732500,
+          "total" : 16678732500
+        }
+      } ]
+    }, {
+      "fileType" : "PLAIN_TEXT",
+      "partOfTotalProcessingTime" : {
+        "part" : 1049303800,
+        "total" : 1107564677400
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 44451200,
+        "total" : 274304772400
+      },
+      "totalNumberOfFiles" : 43,
+      "totalFilesSize" : 213811,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 213811,
+        "totalTime" : 1049303800
+      },
+      "biggestContributors" : [ {
+        "providerName" : "JDK 17 C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.se, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jdi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jfr, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.net, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.rmi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.sql, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.xml, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jcmd, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.sctp, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.base, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jdeps, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jlink, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.zipfs, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.prefs, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.attach, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jshell, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jstatd, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.random, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.naming, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.editpad, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jartool, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.javadoc, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.xml.dom, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.desktop, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.logging, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.charsets, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.compiler, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.dynalink, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jconsole, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jpackage, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jsobject, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.compiler, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.net.http, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.crypto.ec, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.scripting, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.httpserver, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jdwp.agent, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.localedata, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.management, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.naming.dns, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.naming.rmi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.instrument, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.management, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.sql.rowset, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.xml.crypto, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.ed, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.le, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.nio.mapmode, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.unsupported, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.smartcardio, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.opt, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.datatransfer, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.accessibility, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.crypto.mscapi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.hotspot.agent, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.security.auth, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.security.sasl, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.vm.ci, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.management.jfr, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.management.rmi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.transaction.xa, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.crypto.cryptoki, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.incubator.vector, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.jvmstat, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.management.agent, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.incubator.foreign, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.unsupported.desktop, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.vm.compiler, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.vm.compiler.management, C:/Users/Mile/.jdks/ms-17.0.17!/java.base, C:/Users/Mile/.jdks/ms-17.0.17!/java.compiler, C:/Users/Mile/.jdks/ms-17.0.17!/java.datatransfer, C:/Users/Mile/.jdks/ms-17.0.17!/java.desktop, C:/Users/Mile/.jdks/ms-17.0.17!/java.instrument, C:/Users/Mile/.jdks/ms-17.0.17!/java.logging, C:/Users/Mile/.jdks/ms-17.0.17!/java.management, C:/Users/Mile/.jdks/ms-17.0.17!/java.management.rmi, C:/Users/Mile/.jdks/ms-17.0.17!/java.naming, C:/Users/Mile/.jdks/ms-17.0.17!/java.net.http, C:/Users/Mile/.jdks/ms-17.0.17!/java.prefs, C:/Users/Mile/.jdks/ms-17.0.17!/java.rmi, C:/Users/Mile/.jdks/ms-17.0.17!/java.scripting, C:/Users/Mile/.jdks/ms-17.0.17!/java.se, C:/Users/Mile/.jdks/ms-17.0.17!/java.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17!/java.security.sasl, C:/Users/Mile/.jdks/ms-17.0.17!/java.smartcardio, C:/Users/Mile/.jdks/ms-17.0.17!/java.sql, C:/Users/Mile/.jdks/ms-17.0.17!/java.sql.rowset, C:/Users/Mile/.jdks/ms-17.0.17!/java.transaction.xa, C:/Users/Mile/.jdks/ms-17.0.17!/java.xml, C:/Users/Mile/.jdks/ms-17.0.17!/java.xml.crypto, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.accessibility, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.attach, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.charsets, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.compiler, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.crypto.cryptoki, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.crypto.ec, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.crypto.mscapi, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.dynalink, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.editpad, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.hotspot.agent, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.httpserver, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.incubator.foreign, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.incubator.vector, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.ed, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.jvmstat, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.le, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.opt, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.vm.ci, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.vm.compiler, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.vm.compiler.management, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jartool, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.javadoc, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jcmd, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jconsole, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jdeps, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jdi, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jdwp.agent, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jfr, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jlink, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jpackage, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jshell, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jsobject, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jstatd, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.localedata, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.management, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.management.agent, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.management.jfr, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.naming.dns, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.naming.rmi, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.net, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.nio.mapmode, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.random, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.sctp, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.security.auth, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.unsupported, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.unsupported.desktop, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.xml.dom, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.zipfs",
+        "numberOfFiles" : 43,
+        "totalFilesSize" : 213811,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1049303800,
+          "total" : 1049303800
+        }
+      } ]
+    }, {
+      "fileType" : "JavaScript",
+      "partOfTotalProcessingTime" : {
+        "part" : 943139700,
+        "total" : 1107564677400
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 167453600,
+        "total" : 274304772400
+      },
+      "totalNumberOfFiles" : 6,
+      "totalFilesSize" : 505473,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 505473,
+        "totalTime" : 943139700
+      },
+      "biggestContributors" : [ {
+        "providerName" : "JDK 17 C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.se, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jdi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jfr, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.net, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.rmi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.sql, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.xml, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jcmd, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.sctp, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.base, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jdeps, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jlink, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.zipfs, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.prefs, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.attach, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jshell, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jstatd, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.random, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.naming, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.editpad, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jartool, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.javadoc, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.xml.dom, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.desktop, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.logging, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.charsets, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.compiler, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.dynalink, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jconsole, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jpackage, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jsobject, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.compiler, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.net.http, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.crypto.ec, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.scripting, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.httpserver, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jdwp.agent, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.localedata, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.management, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.naming.dns, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.naming.rmi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.instrument, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.management, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.sql.rowset, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.xml.crypto, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.ed, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.le, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.nio.mapmode, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.unsupported, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.smartcardio, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.opt, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.datatransfer, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.accessibility, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.crypto.mscapi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.hotspot.agent, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.security.auth, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.security.sasl, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.vm.ci, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.management.jfr, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.management.rmi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.transaction.xa, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.crypto.cryptoki, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.incubator.vector, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.jvmstat, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.management.agent, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.incubator.foreign, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.unsupported.desktop, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.vm.compiler, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.vm.compiler.management, C:/Users/Mile/.jdks/ms-17.0.17!/java.base, C:/Users/Mile/.jdks/ms-17.0.17!/java.compiler, C:/Users/Mile/.jdks/ms-17.0.17!/java.datatransfer, C:/Users/Mile/.jdks/ms-17.0.17!/java.desktop, C:/Users/Mile/.jdks/ms-17.0.17!/java.instrument, C:/Users/Mile/.jdks/ms-17.0.17!/java.logging, C:/Users/Mile/.jdks/ms-17.0.17!/java.management, C:/Users/Mile/.jdks/ms-17.0.17!/java.management.rmi, C:/Users/Mile/.jdks/ms-17.0.17!/java.naming, C:/Users/Mile/.jdks/ms-17.0.17!/java.net.http, C:/Users/Mile/.jdks/ms-17.0.17!/java.prefs, C:/Users/Mile/.jdks/ms-17.0.17!/java.rmi, C:/Users/Mile/.jdks/ms-17.0.17!/java.scripting, C:/Users/Mile/.jdks/ms-17.0.17!/java.se, C:/Users/Mile/.jdks/ms-17.0.17!/java.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17!/java.security.sasl, C:/Users/Mile/.jdks/ms-17.0.17!/java.smartcardio, C:/Users/Mile/.jdks/ms-17.0.17!/java.sql, C:/Users/Mile/.jdks/ms-17.0.17!/java.sql.rowset, C:/Users/Mile/.jdks/ms-17.0.17!/java.transaction.xa, C:/Users/Mile/.jdks/ms-17.0.17!/java.xml, C:/Users/Mile/.jdks/ms-17.0.17!/java.xml.crypto, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.accessibility, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.attach, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.charsets, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.compiler, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.crypto.cryptoki, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.crypto.ec, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.crypto.mscapi, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.dynalink, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.editpad, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.hotspot.agent, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.httpserver, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.incubator.foreign, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.incubator.vector, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.ed, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.jvmstat, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.le, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.opt, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.vm.ci, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.vm.compiler, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.vm.compiler.management, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jartool, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.javadoc, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jcmd, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jconsole, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jdeps, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jdi, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jdwp.agent, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jfr, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jlink, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jpackage, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jshell, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jsobject, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jstatd, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.localedata, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.management, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.management.agent, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.management.jfr, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.naming.dns, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.naming.rmi, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.net, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.nio.mapmode, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.random, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.sctp, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.security.auth, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.unsupported, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.unsupported.desktop, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.xml.dom, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.zipfs",
+        "numberOfFiles" : 6,
+        "totalFilesSize" : 505473,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 943139700,
+          "total" : 943139700
+        }
+      } ]
+    }, {
+      "fileType" : "CSS",
+      "partOfTotalProcessingTime" : {
+        "part" : 128027700,
+        "total" : 1107564677400
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 20567300,
+        "total" : 274304772400
+      },
+      "totalNumberOfFiles" : 5,
+      "totalFilesSize" : 29417,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 29417,
+        "totalTime" : 128027700
+      },
+      "biggestContributors" : [ {
+        "providerName" : "JDK 17 C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.se, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jdi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jfr, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.net, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.rmi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.sql, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.xml, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jcmd, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.sctp, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.base, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jdeps, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jlink, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.zipfs, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.prefs, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.attach, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jshell, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jstatd, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.random, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.naming, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.editpad, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jartool, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.javadoc, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.xml.dom, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.desktop, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.logging, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.charsets, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.compiler, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.dynalink, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jconsole, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jpackage, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jsobject, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.compiler, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.net.http, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.crypto.ec, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.scripting, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.httpserver, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jdwp.agent, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.localedata, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.management, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.naming.dns, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.naming.rmi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.instrument, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.management, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.sql.rowset, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.xml.crypto, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.ed, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.le, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.nio.mapmode, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.unsupported, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.smartcardio, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.opt, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.datatransfer, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.accessibility, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.crypto.mscapi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.hotspot.agent, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.security.auth, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.security.sasl, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.vm.ci, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.management.jfr, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.management.rmi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.transaction.xa, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.crypto.cryptoki, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.incubator.vector, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.jvmstat, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.management.agent, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.incubator.foreign, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.unsupported.desktop, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.vm.compiler, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.vm.compiler.management, C:/Users/Mile/.jdks/ms-17.0.17!/java.base, C:/Users/Mile/.jdks/ms-17.0.17!/java.compiler, C:/Users/Mile/.jdks/ms-17.0.17!/java.datatransfer, C:/Users/Mile/.jdks/ms-17.0.17!/java.desktop, C:/Users/Mile/.jdks/ms-17.0.17!/java.instrument, C:/Users/Mile/.jdks/ms-17.0.17!/java.logging, C:/Users/Mile/.jdks/ms-17.0.17!/java.management, C:/Users/Mile/.jdks/ms-17.0.17!/java.management.rmi, C:/Users/Mile/.jdks/ms-17.0.17!/java.naming, C:/Users/Mile/.jdks/ms-17.0.17!/java.net.http, C:/Users/Mile/.jdks/ms-17.0.17!/java.prefs, C:/Users/Mile/.jdks/ms-17.0.17!/java.rmi, C:/Users/Mile/.jdks/ms-17.0.17!/java.scripting, C:/Users/Mile/.jdks/ms-17.0.17!/java.se, C:/Users/Mile/.jdks/ms-17.0.17!/java.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17!/java.security.sasl, C:/Users/Mile/.jdks/ms-17.0.17!/java.smartcardio, C:/Users/Mile/.jdks/ms-17.0.17!/java.sql, C:/Users/Mile/.jdks/ms-17.0.17!/java.sql.rowset, C:/Users/Mile/.jdks/ms-17.0.17!/java.transaction.xa, C:/Users/Mile/.jdks/ms-17.0.17!/java.xml, C:/Users/Mile/.jdks/ms-17.0.17!/java.xml.crypto, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.accessibility, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.attach, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.charsets, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.compiler, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.crypto.cryptoki, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.crypto.ec, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.crypto.mscapi, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.dynalink, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.editpad, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.hotspot.agent, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.httpserver, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.incubator.foreign, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.incubator.vector, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.ed, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.jvmstat, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.le, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.opt, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.vm.ci, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.vm.compiler, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.vm.compiler.management, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jartool, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.javadoc, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jcmd, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jconsole, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jdeps, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jdi, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jdwp.agent, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jfr, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jlink, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jpackage, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jshell, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jsobject, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jstatd, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.localedata, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.management, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.management.agent, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.management.jfr, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.naming.dns, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.naming.rmi, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.net, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.nio.mapmode, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.random, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.sctp, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.security.auth, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.unsupported, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.unsupported.desktop, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.xml.dom, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.zipfs",
+        "numberOfFiles" : 5,
+        "totalFilesSize" : 29417,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 128027700,
+          "total" : 128027700
+        }
+      } ]
+    }, {
+      "fileType" : "textmate",
+      "partOfTotalProcessingTime" : {
+        "part" : 101242600,
+        "total" : 1107564677400
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 849600,
+        "total" : 274304772400
+      },
+      "totalNumberOfFiles" : 7,
+      "totalFilesSize" : 16051,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 16051,
+        "totalTime" : 101242600
+      },
+      "biggestContributors" : [ {
+        "providerName" : "JDK 17 C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.se, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jdi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jfr, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.net, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.rmi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.sql, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.xml, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jcmd, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.sctp, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.base, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jdeps, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jlink, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.zipfs, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.prefs, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.attach, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jshell, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jstatd, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.random, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.naming, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.editpad, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jartool, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.javadoc, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.xml.dom, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.desktop, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.logging, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.charsets, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.compiler, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.dynalink, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jconsole, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jpackage, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jsobject, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.compiler, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.net.http, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.crypto.ec, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.scripting, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.httpserver, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jdwp.agent, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.localedata, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.management, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.naming.dns, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.naming.rmi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.instrument, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.management, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.sql.rowset, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.xml.crypto, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.ed, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.le, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.nio.mapmode, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.unsupported, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.smartcardio, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.opt, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.datatransfer, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.accessibility, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.crypto.mscapi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.hotspot.agent, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.security.auth, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.security.sasl, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.vm.ci, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.management.jfr, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.management.rmi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.transaction.xa, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.crypto.cryptoki, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.incubator.vector, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.jvmstat, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.management.agent, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.incubator.foreign, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.unsupported.desktop, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.vm.compiler, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.vm.compiler.management, C:/Users/Mile/.jdks/ms-17.0.17!/java.base, C:/Users/Mile/.jdks/ms-17.0.17!/java.compiler, C:/Users/Mile/.jdks/ms-17.0.17!/java.datatransfer, C:/Users/Mile/.jdks/ms-17.0.17!/java.desktop, C:/Users/Mile/.jdks/ms-17.0.17!/java.instrument, C:/Users/Mile/.jdks/ms-17.0.17!/java.logging, C:/Users/Mile/.jdks/ms-17.0.17!/java.management, C:/Users/Mile/.jdks/ms-17.0.17!/java.management.rmi, C:/Users/Mile/.jdks/ms-17.0.17!/java.naming, C:/Users/Mile/.jdks/ms-17.0.17!/java.net.http, C:/Users/Mile/.jdks/ms-17.0.17!/java.prefs, C:/Users/Mile/.jdks/ms-17.0.17!/java.rmi, C:/Users/Mile/.jdks/ms-17.0.17!/java.scripting, C:/Users/Mile/.jdks/ms-17.0.17!/java.se, C:/Users/Mile/.jdks/ms-17.0.17!/java.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17!/java.security.sasl, C:/Users/Mile/.jdks/ms-17.0.17!/java.smartcardio, C:/Users/Mile/.jdks/ms-17.0.17!/java.sql, C:/Users/Mile/.jdks/ms-17.0.17!/java.sql.rowset, C:/Users/Mile/.jdks/ms-17.0.17!/java.transaction.xa, C:/Users/Mile/.jdks/ms-17.0.17!/java.xml, C:/Users/Mile/.jdks/ms-17.0.17!/java.xml.crypto, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.accessibility, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.attach, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.charsets, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.compiler, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.crypto.cryptoki, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.crypto.ec, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.crypto.mscapi, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.dynalink, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.editpad, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.hotspot.agent, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.httpserver, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.incubator.foreign, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.incubator.vector, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.ed, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.jvmstat, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.le, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.opt, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.vm.ci, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.vm.compiler, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.vm.compiler.management, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jartool, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.javadoc, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jcmd, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jconsole, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jdeps, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jdi, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jdwp.agent, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jfr, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jlink, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jpackage, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jshell, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jsobject, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jstatd, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.localedata, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.management, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.management.agent, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.management.jfr, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.naming.dns, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.naming.rmi, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.net, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.nio.mapmode, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.random, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.sctp, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.security.auth, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.unsupported, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.unsupported.desktop, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.xml.dom, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.zipfs",
+        "numberOfFiles" : 7,
+        "totalFilesSize" : 16051,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 101242600,
+          "total" : 101242600
+        }
+      } ]
+    }, {
+      "fileType" : "XML",
+      "partOfTotalProcessingTime" : {
+        "part" : 71924800,
+        "total" : 1107564677400
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 3047000,
+        "total" : 274304772400
+      },
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : 48361,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 48361,
+        "totalTime" : 71924800
+      },
+      "biggestContributors" : [ {
+        "providerName" : "JDK 17 C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.se, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jdi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jfr, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.net, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.rmi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.sql, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.xml, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jcmd, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.sctp, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.base, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jdeps, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jlink, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.zipfs, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.prefs, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.attach, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jshell, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jstatd, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.random, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.naming, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.editpad, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jartool, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.javadoc, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.xml.dom, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.desktop, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.logging, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.charsets, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.compiler, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.dynalink, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jconsole, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jpackage, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jsobject, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.compiler, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.net.http, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.crypto.ec, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.scripting, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.httpserver, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jdwp.agent, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.localedata, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.management, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.naming.dns, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.naming.rmi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.instrument, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.management, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.sql.rowset, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.xml.crypto, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.ed, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.le, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.nio.mapmode, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.unsupported, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.smartcardio, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.opt, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.datatransfer, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.accessibility, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.crypto.mscapi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.hotspot.agent, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.security.auth, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.security.sasl, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.vm.ci, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.management.jfr, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.management.rmi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.transaction.xa, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.crypto.cryptoki, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.incubator.vector, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.jvmstat, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.management.agent, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.incubator.foreign, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.unsupported.desktop, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.vm.compiler, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.vm.compiler.management, C:/Users/Mile/.jdks/ms-17.0.17!/java.base, C:/Users/Mile/.jdks/ms-17.0.17!/java.compiler, C:/Users/Mile/.jdks/ms-17.0.17!/java.datatransfer, C:/Users/Mile/.jdks/ms-17.0.17!/java.desktop, C:/Users/Mile/.jdks/ms-17.0.17!/java.instrument, C:/Users/Mile/.jdks/ms-17.0.17!/java.logging, C:/Users/Mile/.jdks/ms-17.0.17!/java.management, C:/Users/Mile/.jdks/ms-17.0.17!/java.management.rmi, C:/Users/Mile/.jdks/ms-17.0.17!/java.naming, C:/Users/Mile/.jdks/ms-17.0.17!/java.net.http, C:/Users/Mile/.jdks/ms-17.0.17!/java.prefs, C:/Users/Mile/.jdks/ms-17.0.17!/java.rmi, C:/Users/Mile/.jdks/ms-17.0.17!/java.scripting, C:/Users/Mile/.jdks/ms-17.0.17!/java.se, C:/Users/Mile/.jdks/ms-17.0.17!/java.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17!/java.security.sasl, C:/Users/Mile/.jdks/ms-17.0.17!/java.smartcardio, C:/Users/Mile/.jdks/ms-17.0.17!/java.sql, C:/Users/Mile/.jdks/ms-17.0.17!/java.sql.rowset, C:/Users/Mile/.jdks/ms-17.0.17!/java.transaction.xa, C:/Users/Mile/.jdks/ms-17.0.17!/java.xml, C:/Users/Mile/.jdks/ms-17.0.17!/java.xml.crypto, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.accessibility, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.attach, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.charsets, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.compiler, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.crypto.cryptoki, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.crypto.ec, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.crypto.mscapi, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.dynalink, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.editpad, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.hotspot.agent, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.httpserver, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.incubator.foreign, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.incubator.vector, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.ed, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.jvmstat, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.le, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.opt, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.vm.ci, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.vm.compiler, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.vm.compiler.management, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jartool, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.javadoc, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jcmd, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jconsole, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jdeps, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jdi, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jdwp.agent, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jfr, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jlink, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jpackage, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jshell, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jsobject, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jstatd, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.localedata, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.management, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.management.agent, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.management.jfr, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.naming.dns, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.naming.rmi, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.net, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.nio.mapmode, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.random, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.sctp, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.security.auth, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.unsupported, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.unsupported.desktop, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.xml.dom, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.zipfs",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : 48361,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 71924800,
+          "total" : 71924800
+        }
+      } ]
+    }, {
+      "fileType" : "DTD",
+      "partOfTotalProcessingTime" : {
+        "part" : 10092100,
+        "total" : 1107564677400
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 6250000,
+        "total" : 274304772400
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 2965,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 2965,
+        "totalTime" : 10092100
+      },
+      "biggestContributors" : [ {
+        "providerName" : "JDK 17 C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.se, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jdi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jfr, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.net, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.rmi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.sql, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.xml, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jcmd, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.sctp, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.base, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jdeps, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jlink, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.zipfs, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.prefs, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.attach, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jshell, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jstatd, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.random, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.naming, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.editpad, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jartool, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.javadoc, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.xml.dom, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.desktop, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.logging, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.charsets, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.compiler, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.dynalink, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jconsole, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jpackage, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jsobject, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.compiler, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.net.http, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.crypto.ec, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.scripting, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.httpserver, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jdwp.agent, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.localedata, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.management, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.naming.dns, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.naming.rmi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.instrument, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.management, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.sql.rowset, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.xml.crypto, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.ed, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.le, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.nio.mapmode, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.unsupported, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.smartcardio, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.opt, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.datatransfer, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.accessibility, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.crypto.mscapi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.hotspot.agent, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.security.auth, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.security.sasl, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.vm.ci, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.management.jfr, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.management.rmi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.transaction.xa, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.crypto.cryptoki, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.incubator.vector, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.jvmstat, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.management.agent, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.incubator.foreign, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.unsupported.desktop, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.vm.compiler, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.vm.compiler.management, C:/Users/Mile/.jdks/ms-17.0.17!/java.base, C:/Users/Mile/.jdks/ms-17.0.17!/java.compiler, C:/Users/Mile/.jdks/ms-17.0.17!/java.datatransfer, C:/Users/Mile/.jdks/ms-17.0.17!/java.desktop, C:/Users/Mile/.jdks/ms-17.0.17!/java.instrument, C:/Users/Mile/.jdks/ms-17.0.17!/java.logging, C:/Users/Mile/.jdks/ms-17.0.17!/java.management, C:/Users/Mile/.jdks/ms-17.0.17!/java.management.rmi, C:/Users/Mile/.jdks/ms-17.0.17!/java.naming, C:/Users/Mile/.jdks/ms-17.0.17!/java.net.http, C:/Users/Mile/.jdks/ms-17.0.17!/java.prefs, C:/Users/Mile/.jdks/ms-17.0.17!/java.rmi, C:/Users/Mile/.jdks/ms-17.0.17!/java.scripting, C:/Users/Mile/.jdks/ms-17.0.17!/java.se, C:/Users/Mile/.jdks/ms-17.0.17!/java.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17!/java.security.sasl, C:/Users/Mile/.jdks/ms-17.0.17!/java.smartcardio, C:/Users/Mile/.jdks/ms-17.0.17!/java.sql, C:/Users/Mile/.jdks/ms-17.0.17!/java.sql.rowset, C:/Users/Mile/.jdks/ms-17.0.17!/java.transaction.xa, C:/Users/Mile/.jdks/ms-17.0.17!/java.xml, C:/Users/Mile/.jdks/ms-17.0.17!/java.xml.crypto, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.accessibility, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.attach, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.charsets, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.compiler, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.crypto.cryptoki, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.crypto.ec, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.crypto.mscapi, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.dynalink, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.editpad, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.hotspot.agent, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.httpserver, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.incubator.foreign, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.incubator.vector, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.ed, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.jvmstat, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.le, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.opt, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.vm.ci, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.vm.compiler, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.vm.compiler.management, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jartool, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.javadoc, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jcmd, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jconsole, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jdeps, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jdi, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jdwp.agent, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jfr, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jlink, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jpackage, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jshell, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jsobject, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jstatd, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.localedata, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.management, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.management.agent, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.management.jfr, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.naming.dns, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.naming.rmi, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.net, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.nio.mapmode, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.random, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.sctp, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.security.auth, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.unsupported, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.unsupported.desktop, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.xml.dom, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.zipfs",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 2965,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 10092100,
+          "total" : 10092100
+        }
+      } ]
+    }, {
+      "fileType" : "SPI",
+      "partOfTotalProcessingTime" : {
+        "part" : 1277100,
+        "total" : 1107564677400
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 183100,
+        "total" : 274304772400
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 41,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 41,
+        "totalTime" : 1277100
+      },
+      "biggestContributors" : [ {
+        "providerName" : "JDK 17 C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.se, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jdi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jfr, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.net, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.rmi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.sql, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.xml, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jcmd, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.sctp, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.base, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jdeps, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jlink, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.zipfs, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.prefs, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.attach, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jshell, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jstatd, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.random, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.naming, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.editpad, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jartool, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.javadoc, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.xml.dom, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.desktop, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.logging, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.charsets, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.compiler, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.dynalink, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jconsole, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jpackage, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jsobject, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.compiler, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.net.http, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.crypto.ec, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.scripting, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.httpserver, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jdwp.agent, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.localedata, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.management, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.naming.dns, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.naming.rmi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.instrument, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.management, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.sql.rowset, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.xml.crypto, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.ed, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.le, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.nio.mapmode, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.unsupported, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.smartcardio, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.opt, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.datatransfer, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.accessibility, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.crypto.mscapi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.hotspot.agent, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.security.auth, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.security.sasl, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.vm.ci, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.management.jfr, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.management.rmi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.transaction.xa, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.crypto.cryptoki, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.incubator.vector, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.jvmstat, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.management.agent, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.incubator.foreign, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.unsupported.desktop, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.vm.compiler, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.vm.compiler.management, C:/Users/Mile/.jdks/ms-17.0.17!/java.base, C:/Users/Mile/.jdks/ms-17.0.17!/java.compiler, C:/Users/Mile/.jdks/ms-17.0.17!/java.datatransfer, C:/Users/Mile/.jdks/ms-17.0.17!/java.desktop, C:/Users/Mile/.jdks/ms-17.0.17!/java.instrument, C:/Users/Mile/.jdks/ms-17.0.17!/java.logging, C:/Users/Mile/.jdks/ms-17.0.17!/java.management, C:/Users/Mile/.jdks/ms-17.0.17!/java.management.rmi, C:/Users/Mile/.jdks/ms-17.0.17!/java.naming, C:/Users/Mile/.jdks/ms-17.0.17!/java.net.http, C:/Users/Mile/.jdks/ms-17.0.17!/java.prefs, C:/Users/Mile/.jdks/ms-17.0.17!/java.rmi, C:/Users/Mile/.jdks/ms-17.0.17!/java.scripting, C:/Users/Mile/.jdks/ms-17.0.17!/java.se, C:/Users/Mile/.jdks/ms-17.0.17!/java.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17!/java.security.sasl, C:/Users/Mile/.jdks/ms-17.0.17!/java.smartcardio, C:/Users/Mile/.jdks/ms-17.0.17!/java.sql, C:/Users/Mile/.jdks/ms-17.0.17!/java.sql.rowset, C:/Users/Mile/.jdks/ms-17.0.17!/java.transaction.xa, C:/Users/Mile/.jdks/ms-17.0.17!/java.xml, C:/Users/Mile/.jdks/ms-17.0.17!/java.xml.crypto, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.accessibility, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.attach, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.charsets, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.compiler, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.crypto.cryptoki, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.crypto.ec, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.crypto.mscapi, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.dynalink, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.editpad, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.hotspot.agent, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.httpserver, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.incubator.foreign, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.incubator.vector, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.ed, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.jvmstat, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.le, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.opt, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.vm.ci, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.vm.compiler, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.vm.compiler.management, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jartool, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.javadoc, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jcmd, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jconsole, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jdeps, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jdi, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jdwp.agent, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jfr, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jlink, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jpackage, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jshell, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jsobject, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jstatd, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.localedata, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.management, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.management.agent, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.management.jfr, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.naming.dns, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.naming.rmi, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.net, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.nio.mapmode, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.random, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.sctp, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.security.auth, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.unsupported, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.unsupported.desktop, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.xml.dom, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.zipfs",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 41,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1277100,
+          "total" : 1277100
+        }
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : {
+        "part" : 101482111600,
+        "total" : 224819124700
+      },
+      "totalNumberOfFiles" : 26886,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 123174040,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 123174040,
+        "totalTime" : 101482111600
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 71342749500,
+        "total" : 224819124700
+      },
+      "totalNumberOfFiles" : 15202,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 202435795,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 202435795,
+        "totalTime" : 71342749500
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 31854459100,
+        "total" : 224819124700
+      },
+      "totalNumberOfFiles" : 15202,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 202435795,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 202435795,
+        "totalTime" : 31854459100
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "bytecodeAnalysis",
+      "partOfTotalIndexingTime" : {
+        "part" : 10210852700,
+        "total" : 224819124700
+      },
+      "totalNumberOfFiles" : 26690,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 121232327,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 121232327,
+        "totalTime" : 10210852700
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinPartialPackageNamesIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 7305610800,
+        "total" : 224819124700
+      },
+      "totalNumberOfFiles" : 26690,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 121232327,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 121232327,
+        "totalTime" : 7305610800
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 1519023600,
+        "total" : 224819124700
+      },
+      "totalNumberOfFiles" : 26690,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 121232327,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 121232327,
+        "totalTime" : 1519023600
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 1080075500,
+        "total" : 224819124700
+      },
+      "totalNumberOfFiles" : 26690,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 121232327,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 121232327,
+        "totalTime" : 1080075500
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "fileIncludes",
+      "partOfTotalIndexingTime" : {
+        "part" : 10074800,
+        "total" : 224819124700
+      },
+      "totalNumberOfFiles" : 2,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 48361,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 48361,
+        "totalTime" : 10074800
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "XmlNamespaces",
+      "partOfTotalIndexingTime" : {
+        "part" : 5838400,
+        "total" : 224819124700
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 6978,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 6978,
+        "totalTime" : 5838400
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJsMetadataVersionIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 5426300,
+        "total" : 224819124700
+      },
+      "totalNumberOfFiles" : 6,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 505473,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 505473,
+        "totalTime" : 5426300
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "XsltSymbolIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 924700,
+        "total" : 224819124700
+      },
+      "totalNumberOfFiles" : 2,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 48361,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 48361,
+        "totalTime" : 924700
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "xmlProperties",
+      "partOfTotalIndexingTime" : {
+        "part" : 889700,
+        "total" : 224819124700
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 41383,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 41383,
+        "totalTime" : 889700
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "RelaxSymbolIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 542200,
+        "total" : 224819124700
+      },
+      "totalNumberOfFiles" : 2,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 48361,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 48361,
+        "totalTime" : 542200
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "DomFileIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 382400,
+        "total" : 224819124700
+      },
+      "totalNumberOfFiles" : 2,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 48361,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 48361,
+        "totalTime" : 382400
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "IdeaPluginRegistrationIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 70900,
+        "total" : 224819124700
+      },
+      "totalNumberOfFiles" : 2,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 48361,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 48361,
+        "totalTime" : 70900
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "NavXmlIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 27300,
+        "total" : 224819124700
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 41383,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 41383,
+        "totalTime" : 27300
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "PluginIdModuleIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 19700,
+        "total" : 224819124700
+      },
+      "totalNumberOfFiles" : 2,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 48361,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 48361,
+        "totalTime" : 19700
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "PluginIdDependenciesIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 17400,
+        "total" : 224819124700
+      },
+      "totalNumberOfFiles" : 2,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 48361,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 48361,
+        "totalTime" : 17400
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "devkit.ExtensionPointIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 14500,
+        "total" : 224819124700
+      },
+      "totalNumberOfFiles" : 2,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 48361,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 48361,
+        "totalTime" : 14500
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "devkit.ExtensionPointClassIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 13600,
+        "total" : 224819124700
+      },
+      "totalNumberOfFiles" : 2,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 48361,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 48361,
+        "totalTime" : 13600
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    } ],
+    "scanningStatistics" : [ {
+      "providerName" : "JDK 17 C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.se, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jdi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jfr, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.net, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.rmi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.sql, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.xml, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jcmd, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.sctp, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.base, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jdeps, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jlink, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.zipfs, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.prefs, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.attach, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jshell, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jstatd, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.random, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.naming, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.editpad, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jartool, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.javadoc, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.xml.dom, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.desktop, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.logging, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.charsets, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.compiler, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.dynalink, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jconsole, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jpackage, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jsobject, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.compiler, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.net.http, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.crypto.ec, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.scripting, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.httpserver, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jdwp.agent, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.localedata, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.management, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.naming.dns, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.naming.rmi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.instrument, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.management, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.sql.rowset, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.xml.crypto, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.ed, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.le, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.nio.mapmode, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.unsupported, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.smartcardio, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.opt, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.datatransfer, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.accessibility, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.crypto.mscapi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.hotspot.agent, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.security.auth, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.security.sasl, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.vm.ci, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.management.jfr, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.management.rmi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.transaction.xa, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.crypto.cryptoki, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.incubator.vector, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.jvmstat, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.management.agent, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.incubator.foreign, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.unsupported.desktop, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.vm.compiler, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.vm.compiler.management, C:/Users/Mile/.jdks/ms-17.0.17!/java.base, C:/Users/Mile/.jdks/ms-17.0.17!/java.compiler, C:/Users/Mile/.jdks/ms-17.0.17!/java.datatransfer, C:/Users/Mile/.jdks/ms-17.0.17!/java.desktop, C:/Users/Mile/.jdks/ms-17.0.17!/java.instrument, C:/Users/Mile/.jdks/ms-17.0.17!/java.logging, C:/Users/Mile/.jdks/ms-17.0.17!/java.management, C:/Users/Mile/.jdks/ms-17.0.17!/java.management.rmi, C:/Users/Mile/.jdks/ms-17.0.17!/java.naming, C:/Users/Mile/.jdks/ms-17.0.17!/java.net.http, C:/Users/Mile/.jdks/ms-17.0.17!/java.prefs, C:/Users/Mile/.jdks/ms-17.0.17!/java.rmi, C:/Users/Mile/.jdks/ms-17.0.17!/java.scripting, C:/Users/Mile/.jdks/ms-17.0.17!/java.se, C:/Users/Mile/.jdks/ms-17.0.17!/java.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17!/java.security.sasl, C:/Users/Mile/.jdks/ms-17.0.17!/java.smartcardio, C:/Users/Mile/.jdks/ms-17.0.17!/java.sql, C:/Users/Mile/.jdks/ms-17.0.17!/java.sql.rowset, C:/Users/Mile/.jdks/ms-17.0.17!/java.transaction.xa, C:/Users/Mile/.jdks/ms-17.0.17!/java.xml, C:/Users/Mile/.jdks/ms-17.0.17!/java.xml.crypto, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.accessibility, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.attach, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.charsets, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.compiler, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.crypto.cryptoki, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.crypto.ec, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.crypto.mscapi, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.dynalink, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.editpad, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.hotspot.agent, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.httpserver, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.incubator.foreign, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.incubator.vector, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.ed, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.jvmstat, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.le, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.opt, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.vm.ci, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.vm.compiler, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.vm.compiler.management, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jartool, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.javadoc, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jcmd, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jconsole, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jdeps, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jdi, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jdwp.agent, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jfr, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jlink, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jpackage, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jshell, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jsobject, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jstatd, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.localedata, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.management, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.management.agent, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.management.jfr, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.naming.dns, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.naming.rmi, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.net, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.nio.mapmode, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.random, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.sctp, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.security.auth, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.unsupported, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.unsupported.desktop, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.xml.dom, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.zipfs",
+      "numberOfScannedFiles" : 42244,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 41892,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 14498231000,
+      "scanningTime" : 14606787400,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 5090151100,
+      "timeIndexingWithoutContent" : 277817100,
+      "roots" : [ ]
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "JDK 17 C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.se, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jdi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jfr, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.net, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.rmi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.sql, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.xml, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jcmd, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.sctp, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.base, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jdeps, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jlink, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.zipfs, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.prefs, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.attach, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jshell, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jstatd, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.random, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.naming, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.editpad, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jartool, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.javadoc, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.xml.dom, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.desktop, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.logging, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.charsets, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.compiler, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.dynalink, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jconsole, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jpackage, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jsobject, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.compiler, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.net.http, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.crypto.ec, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.scripting, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.httpserver, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.jdwp.agent, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.localedata, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.management, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.naming.dns, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.naming.rmi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.instrument, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.management, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.sql.rowset, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.xml.crypto, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.ed, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.le, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.nio.mapmode, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.unsupported, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.smartcardio, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.opt, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.datatransfer, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.accessibility, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.crypto.mscapi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.hotspot.agent, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.security.auth, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.security.sasl, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.vm.ci, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.management.jfr, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.management.rmi, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/java.transaction.xa, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.crypto.cryptoki, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.incubator.vector, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.jvmstat, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.management.agent, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.incubator.foreign, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.unsupported.desktop, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.vm.compiler, C:/Users/Mile/.jdks/ms-17.0.17/lib/src.zip!/jdk.internal.vm.compiler.management, C:/Users/Mile/.jdks/ms-17.0.17!/java.base, C:/Users/Mile/.jdks/ms-17.0.17!/java.compiler, C:/Users/Mile/.jdks/ms-17.0.17!/java.datatransfer, C:/Users/Mile/.jdks/ms-17.0.17!/java.desktop, C:/Users/Mile/.jdks/ms-17.0.17!/java.instrument, C:/Users/Mile/.jdks/ms-17.0.17!/java.logging, C:/Users/Mile/.jdks/ms-17.0.17!/java.management, C:/Users/Mile/.jdks/ms-17.0.17!/java.management.rmi, C:/Users/Mile/.jdks/ms-17.0.17!/java.naming, C:/Users/Mile/.jdks/ms-17.0.17!/java.net.http, C:/Users/Mile/.jdks/ms-17.0.17!/java.prefs, C:/Users/Mile/.jdks/ms-17.0.17!/java.rmi, C:/Users/Mile/.jdks/ms-17.0.17!/java.scripting, C:/Users/Mile/.jdks/ms-17.0.17!/java.se, C:/Users/Mile/.jdks/ms-17.0.17!/java.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17!/java.security.sasl, C:/Users/Mile/.jdks/ms-17.0.17!/java.smartcardio, C:/Users/Mile/.jdks/ms-17.0.17!/java.sql, C:/Users/Mile/.jdks/ms-17.0.17!/java.sql.rowset, C:/Users/Mile/.jdks/ms-17.0.17!/java.transaction.xa, C:/Users/Mile/.jdks/ms-17.0.17!/java.xml, C:/Users/Mile/.jdks/ms-17.0.17!/java.xml.crypto, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.accessibility, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.attach, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.charsets, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.compiler, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.crypto.cryptoki, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.crypto.ec, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.crypto.mscapi, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.dynalink, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.editpad, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.hotspot.agent, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.httpserver, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.incubator.foreign, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.incubator.vector, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.ed, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.jvmstat, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.le, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.opt, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.vm.ci, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.vm.compiler, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.internal.vm.compiler.management, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jartool, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.javadoc, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jcmd, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jconsole, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jdeps, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jdi, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jdwp.agent, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jfr, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jlink, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jpackage, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jshell, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jsobject, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.jstatd, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.localedata, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.management, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.management.agent, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.management.jfr, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.naming.dns, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.naming.rmi, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.net, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.nio.mapmode, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.random, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.sctp, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.security.auth, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.security.jgss, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.unsupported, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.unsupported.desktop, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.xml.dom, C:/Users/Mile/.jdks/ms-17.0.17!/jdk.zipfs",
+      "totalNumberOfIndexedFiles" : 41892,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingVisibleTime" : 378017022200,
+      "contentLoadingVisibleTime" : 93621506132,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ {
+        "fileName" : "CachedRowSetWriter.class",
+        "processingTime" : 5655249600,
+        "evaluationOfIndexValueChangerTime" : 1170700,
+        "contentLoadingTime" : 2628481100
+      }, {
+        "fileName" : "CurrencyNames_saq.java",
+        "processingTime" : 6256212200,
+        "evaluationOfIndexValueChangerTime" : 902600,
+        "contentLoadingTime" : 6254121200
+      }, {
+        "fileName" : "ZoneName.java",
+        "processingTime" : 6620547800,
+        "evaluationOfIndexValueChangerTime" : 3093100,
+        "contentLoadingTime" : 3449500
+      }, {
+        "fileName" : "DateTimeParseContext.java",
+        "processingTime" : 6609439000,
+        "evaluationOfIndexValueChangerTime" : 1019900,
+        "contentLoadingTime" : 6605937700
+      }, {
+        "fileName" : "TimeZoneNames_pt_MO.java",
+        "processingTime" : 9451181800,
+        "evaluationOfIndexValueChangerTime" : 727400,
+        "contentLoadingTime" : 9440752600
+      }, {
+        "fileName" : "SecureClassLoaderRepository.class",
+        "processingTime" : 42832121100,
+        "evaluationOfIndexValueChangerTime" : 613000,
+        "contentLoadingTime" : 48600
+      }, {
+        "fileName" : "CurrencyNames_uz.java",
+        "processingTime" : 9463932500,
+        "evaluationOfIndexValueChangerTime" : 2178700,
+        "contentLoadingTime" : 9449995600
+      }, {
+        "fileName" : "ConvertingMethod.class",
+        "processingTime" : 42828257500,
+        "evaluationOfIndexValueChangerTime" : 20970900,
+        "contentLoadingTime" : 52300
+      }, {
+        "fileName" : "DateTimeFormatter.java",
+        "processingTime" : 7004728500,
+        "evaluationOfIndexValueChangerTime" : 29186800,
+        "contentLoadingTime" : 6647734600
+      }, {
+        "fileName" : "DefaultMXBeanMappingFactory.class",
+        "processingTime" : 43301682000,
+        "evaluationOfIndexValueChangerTime" : 497055400,
+        "contentLoadingTime" : 660000
+      } ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 122342520183
+    } ],
+    "visibleTimeToAllThreadTimeRatio" : 0.34130469300212085
+  }
+}

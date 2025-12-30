@@ -1,0 +1,4989 @@
+{
+  "pageCacheStats" : {
+    "cachedChannelsStatistics" : {
+      "hit" : 525,
+      "miss" : 0,
+      "load" : 101,
+      "capacity" : 400
+    },
+    "uncachedFileAccess" : 149,
+    "maxRegisteredFiles" : 621,
+    "maxCacheSizeInBytes" : 269574144,
+    "pageHit" : 3318,
+    "pageFastCacheHit" : 699873,
+    "pageMiss" : 0,
+    "pageLoad" : 770,
+    "disposedBuffers" : 3,
+    "capacityInBytes" : 524288000
+  },
+  "vfsStorageStats" : {
+    "statsPerEnumerator" : {
+      "contentHashes.dat" : {
+        "collisions" : 0,
+        "values" : 3,
+        "dataFileSizeInBytes" : 60,
+        "storageSizeInBytes" : 96,
+        "btreeStatistics" : {
+          "pages" : 1,
+          "elements" : 3,
+          "height" : 1,
+          "moves" : 0,
+          "leafPages" : 1,
+          "maxSearchStepsInRequest" : 0,
+          "searchRequests" : 5,
+          "searchSteps" : 0,
+          "pageCapacity" : 32768,
+          "sizeInBytes" : 32768
+        }
+      },
+      "names.dat" : {
+        "collisions" : 4,
+        "values" : 77346,
+        "dataFileSizeInBytes" : 2316030,
+        "storageSizeInBytes" : 160,
+        "btreeStatistics" : {
+          "pages" : 33,
+          "elements" : 77343,
+          "height" : 2,
+          "moves" : 255,
+          "leafPages" : 32,
+          "maxSearchStepsInRequest" : 76,
+          "searchRequests" : 285202,
+          "searchSteps" : 412906,
+          "pageCapacity" : 32768,
+          "sizeInBytes" : 1081344
+        }
+      }
+    }
+  },
+  "indexStorageStats" : {
+    "indexStoragesStats" : {
+      "BindingXmlIndex" : {
+        "statsPerPhm" : {
+          "BindingXmlIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "DomFileIndex" : {
+        "statsPerPhm" : {
+          "DomFileIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 17,
+              "dataFileSizeInBytes" : 533,
+              "storageSizeInBytes" : 264,
+              "btreeStatistics" : {
+                "pages" : 1,
+                "elements" : 17,
+                "height" : 1,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 33,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 32768
+              }
+            },
+            "valueStorageSizeInBytes" : 215
+          },
+          "DomFileIndex_inputs" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 1,
+                "elements" : 27,
+                "height" : 1,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 79,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 32768
+              }
+            },
+            "valueStorageSizeInBytes" : 1784
+          }
+        }
+      },
+      "FrameworkDetectionIndex" : {
+        "statsPerPhm" : {
+          ".perFileVersion\\indexed_versions\\indexed_versions" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 1,
+              "dataFileSizeInBytes" : 9,
+              "storageSizeInBytes" : 136,
+              "btreeStatistics" : {
+                "pages" : 1,
+                "elements" : 1,
+                "height" : 1,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 2,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 32768
+              }
+            },
+            "valueStorageSizeInBytes" : 55
+          },
+          "FrameworkDetectionIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "FrameworkDetectionIndex_inputs" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "IdIndex" : {
+        "statsPerPhm" : {
+          ".perFileVersion\\indexed_versions\\indexed_versions" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 12,
+              "dataFileSizeInBytes" : 766,
+              "storageSizeInBytes" : 224,
+              "btreeStatistics" : {
+                "pages" : 1,
+                "elements" : 12,
+                "height" : 1,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 48,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 32768
+              }
+            },
+            "valueStorageSizeInBytes" : 121
+          },
+          "IdIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 237,
+                "elements" : 603620,
+                "height" : 2,
+                "moves" : 13887,
+                "leafPages" : 236,
+                "maxSearchStepsInRequest" : 195,
+                "searchRequests" : 4460044,
+                "searchSteps" : 5163266,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 7766016
+              }
+            },
+            "valueStorageSizeInBytes" : 29464608
+          },
+          "fileIdToHashId" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 9,
+                "elements" : 15420,
+                "height" : 2,
+                "moves" : 0,
+                "leafPages" : 8,
+                "maxSearchStepsInRequest" : 112,
+                "searchRequests" : 56634,
+                "searchSteps" : 31794,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 294912
+              }
+            },
+            "valueStorageSizeInBytes" : -1
+          },
+          "values" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 9,
+                "elements" : 15414,
+                "height" : 2,
+                "moves" : 0,
+                "leafPages" : 8,
+                "maxSearchStepsInRequest" : 967,
+                "searchRequests" : 87452,
+                "searchSteps" : 35458,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 294912
+              }
+            },
+            "valueStorageSizeInBytes" : 23627602
+          }
+        },
+        "statsPerEnumerator" : {
+          "compositeHashId" : {
+            "collisions" : 0,
+            "values" : 15414,
+            "dataFileSizeInBytes" : 61248,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 9,
+              "elements" : 15414,
+              "height" : 2,
+              "moves" : 0,
+              "leafPages" : 8,
+              "maxSearchStepsInRequest" : 646,
+              "searchRequests" : 72042,
+              "searchSteps" : 27241,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 294912
+            }
+          }
+        }
+      },
+      "IdeaPluginRegistrationIndex" : {
+        "statsPerPhm" : {
+          "IdeaPluginRegistrationIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "IdeaPluginRegistrationIndex_inputs" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "JavaFxControllerClassIndex" : {
+        "statsPerPhm" : {
+          "JavaFxControllerClassIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "JavaFxControllerClassIndex_inputs" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "LombokConfigIndex" : {
+        "statsPerPhm" : {
+          "LombokConfigIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "LombokConfigIndex_inputs" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "NavXmlIndex" : {
+        "statsPerPhm" : {
+          "NavXmlIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "PluginIdDependenciesIndex" : {
+        "statsPerPhm" : {
+          "PluginIdDependenciesIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "PluginIdDependenciesIndex_inputs" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "PluginIdModuleIndex" : {
+        "statsPerPhm" : {
+          "PluginIdModuleIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "PluginIdModuleIndex_inputs" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "RelaxSymbolIndex" : {
+        "statsPerPhm" : {
+          "RelaxSymbolIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "RelaxSymbolIndex_inputs" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "SchemaTypeInheritance" : {
+        "statsPerPhm" : {
+          "SchemaTypeInheritance.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 62,
+              "dataFileSizeInBytes" : 2781,
+              "storageSizeInBytes" : 624,
+              "btreeStatistics" : {
+                "pages" : 1,
+                "elements" : 62,
+                "height" : 1,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 123,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 32768
+              }
+            },
+            "valueStorageSizeInBytes" : 13061
+          },
+          "SchemaTypeInheritance_inputs" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 1,
+                "elements" : 9,
+                "height" : 1,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 27,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 32768
+              }
+            },
+            "valueStorageSizeInBytes" : 19356
+          }
+        }
+      },
+      "Stubs" : {
+        "statsPerPhm" : {
+          ".perFileVersion\\indexed_versions\\indexed_versions" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 3,
+              "dataFileSizeInBytes" : 239,
+              "storageSizeInBytes" : 152,
+              "btreeStatistics" : {
+                "pages" : 1,
+                "elements" : 3,
+                "height" : 1,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 12,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 32768
+              }
+            },
+            "valueStorageSizeInBytes" : 67
+          },
+          "Stubs.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 8,
+                "elements" : 15109,
+                "height" : 2,
+                "moves" : 0,
+                "leafPages" : 7,
+                "maxSearchStepsInRequest" : 78,
+                "searchRequests" : 90963,
+                "searchSteps" : 147918,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 262144
+              }
+            },
+            "valueStorageSizeInBytes" : 25652153
+          },
+          "dom.elementclass\\dom.elementClass.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "dom.namespacekey\\dom.namespaceKey.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "gr.annot.method.name\\gr.annot.method.name.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "gr.class.fqn\\gr.class.fqn.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "gr.class.super\\gr.class.super.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "gr.field.name\\gr.field.name.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "gr.method.name\\gr.method.name.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "gr.script.fqn\\gr.script.fqn.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "java.annotations\\java.annotations.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 51,
+              "dataFileSizeInBytes" : 683,
+              "storageSizeInBytes" : 536,
+              "btreeStatistics" : {
+                "pages" : 1,
+                "elements" : 51,
+                "height" : 1,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 1,
+                "searchRequests" : 101,
+                "searchSteps" : 2,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 32768
+              }
+            },
+            "valueStorageSizeInBytes" : 2343
+          },
+          "java.anonymous.baseref\\java.anonymous.baseref.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "java.class.extlist\\java.class.extlist.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 4702,
+              "dataFileSizeInBytes" : 73981,
+              "storageSizeInBytes" : 37816,
+              "btreeStatistics" : {
+                "pages" : 3,
+                "elements" : 4702,
+                "height" : 2,
+                "moves" : 0,
+                "leafPages" : 2,
+                "maxSearchStepsInRequest" : 42,
+                "searchRequests" : 13100,
+                "searchSteps" : 14836,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 98304
+              }
+            },
+            "valueStorageSizeInBytes" : 57419
+          },
+          "java.class.fqn\\java.class.fqn.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 9,
+                "elements" : 22997,
+                "height" : 2,
+                "moves" : 11,
+                "leafPages" : 8,
+                "maxSearchStepsInRequest" : 54,
+                "searchRequests" : 71800,
+                "searchSteps" : 106846,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 294912
+              }
+            },
+            "valueStorageSizeInBytes" : 138031
+          },
+          "java.class.shortname\\java.class.shortname.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 4,
+              "values" : 19945,
+              "dataFileSizeInBytes" : 334199,
+              "storageSizeInBytes" : 164096,
+              "btreeStatistics" : {
+                "pages" : 9,
+                "elements" : 19943,
+                "height" : 2,
+                "moves" : 9,
+                "leafPages" : 8,
+                "maxSearchStepsInRequest" : 80,
+                "searchRequests" : 66125,
+                "searchSteps" : 96405,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 294912
+              }
+            },
+            "valueStorageSizeInBytes" : 131913
+          },
+          "java.field.name\\java.field.name.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 90,
+              "values" : 52412,
+              "dataFileSizeInBytes" : 766380,
+              "storageSizeInBytes" : 424336,
+              "btreeStatistics" : {
+                "pages" : 17,
+                "elements" : 52367,
+                "height" : 2,
+                "moves" : 43,
+                "leafPages" : 16,
+                "maxSearchStepsInRequest" : 55,
+                "searchRequests" : 165151,
+                "searchSteps" : 272244,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 557056
+              }
+            },
+            "valueStorageSizeInBytes" : 443173
+          },
+          "java.method.parameter.types\\java.method.parameter.types.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 4,
+              "values" : 5168,
+              "dataFileSizeInBytes" : 74068,
+              "storageSizeInBytes" : 45648,
+              "btreeStatistics" : {
+                "pages" : 3,
+                "elements" : 5166,
+                "height" : 2,
+                "moves" : 0,
+                "leafPages" : 2,
+                "maxSearchStepsInRequest" : 70,
+                "searchRequests" : 14050,
+                "searchSteps" : 16736,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 98304
+              }
+            },
+            "valueStorageSizeInBytes" : 96701
+          },
+          "java.module.name\\java.module.name.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 71,
+              "dataFileSizeInBytes" : 1059,
+              "storageSizeInBytes" : 696,
+              "btreeStatistics" : {
+                "pages" : 1,
+                "elements" : 71,
+                "height" : 1,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 1,
+                "searchRequests" : 141,
+                "searchSteps" : 2,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 32768
+              }
+            },
+            "valueStorageSizeInBytes" : 475
+          },
+          "jvm.static.member.name\\jvm.static.member.name.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 38,
+              "values" : 38461,
+              "dataFileSizeInBytes" : 607174,
+              "storageSizeInBytes" : 312512,
+              "btreeStatistics" : {
+                "pages" : 17,
+                "elements" : 38442,
+                "height" : 2,
+                "moves" : 37,
+                "leafPages" : 16,
+                "maxSearchStepsInRequest" : 74,
+                "searchRequests" : 135014,
+                "searchSteps" : 197793,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 557056
+              }
+            },
+            "valueStorageSizeInBytes" : 304070
+          },
+          "kotlin.primeindexkey\\kotlin.primeIndexKey.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "markdown.header.anchor\\markdown.header.anchor.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "markdown.header\\markdown.header.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "org.jetbrains.kotlin.idea.stubindex.kotlinannotationsindex\\org.jetbrains.kotlin.idea.stubindex.KotlinAnnotationsIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "org.jetbrains.kotlin.idea.stubindex.kotlinclassshortnameindex\\org.jetbrains.kotlin.idea.stubindex.KotlinClassShortNameIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "org.jetbrains.kotlin.idea.stubindex.kotlinexactpackagesindex\\org.jetbrains.kotlin.idea.stubindex.KotlinExactPackagesIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "org.jetbrains.kotlin.idea.stubindex.kotlinextensionsinobjectsbyreceivertypeindex\\org.jetbrains.kotlin.idea.stubindex.KotlinExtensionsInObjectsByReceiverTypeIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "org.jetbrains.kotlin.idea.stubindex.kotlinfilefacadeclassbypackageindex\\org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeClassByPackageIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "org.jetbrains.kotlin.idea.stubindex.kotlinfilefacadefqnameindex\\org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeFqNameIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "org.jetbrains.kotlin.idea.stubindex.kotlinfilepartclassindex\\org.jetbrains.kotlin.idea.stubindex.KotlinFilePartClassIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "org.jetbrains.kotlin.idea.stubindex.kotlinfullclassnameindex\\org.jetbrains.kotlin.idea.stubindex.KotlinFullClassNameIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "org.jetbrains.kotlin.idea.stubindex.kotlinfunctionshortnameindex\\org.jetbrains.kotlin.idea.stubindex.KotlinFunctionShortNameIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "org.jetbrains.kotlin.idea.stubindex.kotlininnertypealiasclassidindex\\org.jetbrains.kotlin.idea.stubindex.KotlinInnerTypeAliasClassIdIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "org.jetbrains.kotlin.idea.stubindex.kotlinoverridableinternalmembersshortnameindex\\org.jetbrains.kotlin.idea.stubindex.KotlinOverridableInternalMembersShortNameIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "org.jetbrains.kotlin.idea.stubindex.kotlinprobablycontractedfunctionshortnameindex\\org.jetbrains.kotlin.idea.stubindex.KotlinProbablyContractedFunctionShortNameIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "org.jetbrains.kotlin.idea.stubindex.kotlinprobablynothingfunctionshortnameindex\\org.jetbrains.kotlin.idea.stubindex.KotlinProbablyNothingFunctionShortNameIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "org.jetbrains.kotlin.idea.stubindex.kotlinprobablynothingpropertyshortnameindex\\org.jetbrains.kotlin.idea.stubindex.KotlinProbablyNothingPropertyShortNameIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "org.jetbrains.kotlin.idea.stubindex.kotlinpropertyshortnameindex\\org.jetbrains.kotlin.idea.stubindex.KotlinPropertyShortNameIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "org.jetbrains.kotlin.idea.stubindex.kotlinscriptfqnindex\\org.jetbrains.kotlin.idea.stubindex.KotlinScriptFqnIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "org.jetbrains.kotlin.idea.stubindex.kotlinsuperclassindex\\org.jetbrains.kotlin.idea.stubindex.KotlinSuperClassIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "org.jetbrains.kotlin.idea.stubindex.kotlintoplevelclassbypackageindex\\org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelClassByPackageIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "org.jetbrains.kotlin.idea.stubindex.kotlintoplevelextensionsbyreceivertypeindex\\org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelExtensionsByReceiverTypeIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "org.jetbrains.kotlin.idea.stubindex.kotlintoplevelfunctionbypackageindex\\org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelFunctionByPackageIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "org.jetbrains.kotlin.idea.stubindex.kotlintoplevelfunctionfqnnameindex\\org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelFunctionFqnNameIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "org.jetbrains.kotlin.idea.stubindex.kotlintoplevelpropertyfqnnameindex\\org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelPropertyFqnNameIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "org.jetbrains.kotlin.idea.stubindex.kotlintopleveltypealiasbypackageindex\\org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelTypeAliasByPackageIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "org.jetbrains.kotlin.idea.stubindex.kotlintopleveltypealiasfqnameindex\\org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelTypeAliasFqNameIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "org.jetbrains.kotlin.idea.stubindex.kotlintypealiasbyexpansionshortnameindex\\org.jetbrains.kotlin.idea.stubindex.KotlinTypeAliasByExpansionShortNameIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "org.jetbrains.kotlin.idea.stubindex.kotlintypealiasshortnameindex\\org.jetbrains.kotlin.idea.stubindex.KotlinTypeAliasShortNameIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "properties.index\\properties.index.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 2586,
+              "dataFileSizeInBytes" : 51388,
+              "storageSizeInBytes" : 20856,
+              "btreeStatistics" : {
+                "pages" : 1,
+                "elements" : 2586,
+                "height" : 1,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 17,
+                "searchRequests" : 5171,
+                "searchSteps" : 3338,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 32768
+              }
+            },
+            "valueStorageSizeInBytes" : 43492
+          }
+        }
+      },
+      "TodoIndex" : {
+        "statsPerPhm" : {
+          ".perFileVersion\\indexed_versions\\indexed_versions" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "TodoIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "Trigram.Index" : {
+        "statsPerPhm" : {
+          "Trigram.Index.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 12,
+                "elements" : 28236,
+                "height" : 2,
+                "moves" : 28,
+                "leafPages" : 11,
+                "maxSearchStepsInRequest" : 106,
+                "searchRequests" : 101845,
+                "searchSteps" : 197754,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 393216
+              }
+            },
+            "valueStorageSizeInBytes" : 17876973
+          },
+          "fileIdToHashId" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 9,
+                "elements" : 15428,
+                "height" : 2,
+                "moves" : 0,
+                "leafPages" : 8,
+                "maxSearchStepsInRequest" : 112,
+                "searchRequests" : 56650,
+                "searchSteps" : 32136,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 294912
+              }
+            },
+            "valueStorageSizeInBytes" : -1
+          },
+          "values" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 9,
+                "elements" : 15422,
+                "height" : 2,
+                "moves" : 0,
+                "leafPages" : 8,
+                "maxSearchStepsInRequest" : 1568,
+                "searchRequests" : 87482,
+                "searchSteps" : 41509,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 294912
+              }
+            },
+            "valueStorageSizeInBytes" : 15147861
+          }
+        }
+      },
+      "XmlNamespaces" : {
+        "statsPerPhm" : {
+          "XmlNamespaces.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 15,
+              "dataFileSizeInBytes" : 556,
+              "storageSizeInBytes" : 248,
+              "btreeStatistics" : {
+                "pages" : 1,
+                "elements" : 15,
+                "height" : 1,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 30,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 32768
+              }
+            },
+            "valueStorageSizeInBytes" : 5658
+          },
+          "XmlNamespaces_inputs" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 1,
+                "elements" : 21,
+                "height" : 1,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 61,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 32768
+              }
+            },
+            "valueStorageSizeInBytes" : 7118
+          }
+        }
+      },
+      "XmlTagNames" : {
+        "statsPerPhm" : {
+          "XmlTagNames.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 190,
+              "dataFileSizeInBytes" : 1519,
+              "storageSizeInBytes" : 1648,
+              "btreeStatistics" : {
+                "pages" : 1,
+                "elements" : 190,
+                "height" : 1,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 1,
+                "searchRequests" : 379,
+                "searchSteps" : 10,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 32768
+              }
+            },
+            "valueStorageSizeInBytes" : 1850
+          },
+          "XmlTagNames_inputs" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 1,
+                "elements" : 7,
+                "height" : 1,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 22,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 32768
+              }
+            },
+            "valueStorageSizeInBytes" : 2494
+          }
+        }
+      },
+      "XsltSymbolIndex" : {
+        "statsPerPhm" : {
+          "XsltSymbolIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "XsltSymbolIndex_inputs" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "ant-imports" : {
+        "statsPerPhm" : {
+          "ant-imports.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "ant-imports_inputs" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "bytecodeAnalysis" : {
+        "statsPerPhm" : {
+          "bytecodeAnalysis.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 18,
+              "values" : 283470,
+              "dataFileSizeInBytes" : 3401640,
+              "storageSizeInBytes" : 2276416,
+              "btreeStatistics" : {
+                "pages" : 129,
+                "elements" : 283461,
+                "height" : 2,
+                "moves" : 4180,
+                "leafPages" : 128,
+                "maxSearchStepsInRequest" : 82,
+                "searchRequests" : 1034934,
+                "searchSteps" : 1557461,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 4227072
+              }
+            },
+            "valueStorageSizeInBytes" : 1700869
+          },
+          "fileIdToHashId" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 14,
+                "elements" : 26397,
+                "height" : 2,
+                "moves" : 0,
+                "leafPages" : 13,
+                "maxSearchStepsInRequest" : 34,
+                "searchRequests" : 97306,
+                "searchSteps" : 3198,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 458752
+              }
+            },
+            "valueStorageSizeInBytes" : -1
+          },
+          "values" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 15,
+                "elements" : 26690,
+                "height" : 2,
+                "moves" : 0,
+                "leafPages" : 14,
+                "maxSearchStepsInRequest" : 1249,
+                "searchRequests" : 154661,
+                "searchSteps" : 96959,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 491520
+              }
+            },
+            "valueStorageSizeInBytes" : 3512542
+          }
+        }
+      },
+      "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME" : {
+        "statsPerPhm" : {
+          "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME_inputs" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "com.intellij.uiDesigner.FormClassIndex" : {
+        "statsPerPhm" : {
+          "com.intellij.uiDesigner.FormClassIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "com.intellij.uiDesigner.FormClassIndex_inputs" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "devkit.ExtensionPointClassIndex" : {
+        "statsPerPhm" : {
+          "devkit.ExtensionPointClassIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "devkit.ExtensionPointClassIndex_inputs" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "devkit.ExtensionPointIndex" : {
+        "statsPerPhm" : {
+          "devkit.ExtensionPointIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "devkit.ExtensionPointIndex_inputs" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "editorconfig.index.name" : {
+        "statsPerPhm" : {
+          "editorconfig.index.name.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "editorconfig.index.name_inputs" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "fileIncludes" : {
+        "statsPerPhm" : {
+          ".perFileVersion\\indexed_versions\\indexed_versions" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 1,
+              "dataFileSizeInBytes" : 30,
+              "storageSizeInBytes" : 136,
+              "btreeStatistics" : {
+                "pages" : 1,
+                "elements" : 1,
+                "height" : 1,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 2,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 32768
+              }
+            },
+            "valueStorageSizeInBytes" : 55
+          },
+          "fileIncludes.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "fileIncludes_inputs" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "gr.annot.members" : {
+        "statsPerPhm" : {
+          "gr.annot.members.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "gr.anonymous.class" : {
+        "statsPerPhm" : {
+          "gr.anonymous.class.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "gr.script.class" : {
+        "statsPerPhm" : {
+          "gr.script.class.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "html5.custom.attributes.index" : {
+        "statsPerPhm" : {
+          "html5.custom.attributes.index.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "html5.custom.attributes.index_inputs" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "java.auto.module.name" : {
+        "statsPerPhm" : {
+          "java.auto.module.name.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "java.auto.module.name_inputs" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "java.binary.plus.expression" : {
+        "statsPerPhm" : {
+          "fileIdToHashId" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : -1
+          },
+          "java.binary.plus.expression.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "values" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "java.fun.expression" : {
+        "statsPerPhm" : {
+          "fileIdToHashId" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : -1
+          },
+          "java.fun.expression.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "values" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "java.method.name" : {
+        "statsPerPhm" : {
+          "java.method.name.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 8,
+              "values" : 68527,
+              "dataFileSizeInBytes" : 1129103,
+              "storageSizeInBytes" : 553512,
+              "btreeStatistics" : {
+                "pages" : 33,
+                "elements" : 68523,
+                "height" : 2,
+                "moves" : 217,
+                "leafPages" : 32,
+                "maxSearchStepsInRequest" : 83,
+                "searchRequests" : 259655,
+                "searchSteps" : 386817,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 1081344
+              }
+            },
+            "valueStorageSizeInBytes" : 676054
+          }
+        }
+      },
+      "java.null.method.argument" : {
+        "statsPerPhm" : {
+          "fileIdToHashId" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : -1
+          },
+          "java.null.method.argument.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "values" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "java.source.module.name" : {
+        "statsPerPhm" : {
+          "java.source.module.name.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "java.source.module.name_inputs" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "javafx.custom.component" : {
+        "statsPerPhm" : {
+          "javafx.custom.component.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "javafx.custom.component_inputs" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "javafx.id.name" : {
+        "statsPerPhm" : {
+          "javafx.id.name.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "javafx.id.name_inputs" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "json.file.root.values" : {
+        "statsPerPhm" : {
+          "json.file.root.values.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 3,
+              "dataFileSizeInBytes" : 63,
+              "storageSizeInBytes" : 152,
+              "btreeStatistics" : {
+                "pages" : 1,
+                "elements" : 3,
+                "height" : 1,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 5,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 32768
+              }
+            },
+            "valueStorageSizeInBytes" : 88
+          },
+          "json.file.root.values_inputs" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 1,
+                "elements" : 1,
+                "height" : 1,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 1,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 32768
+              }
+            },
+            "valueStorageSizeInBytes" : 121
+          }
+        }
+      },
+      "jvm.static.member.type" : {
+        "statsPerPhm" : {
+          "jvm.static.member.type.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 2,
+              "values" : 3612,
+              "dataFileSizeInBytes" : 50556,
+              "storageSizeInBytes" : 33176,
+              "btreeStatistics" : {
+                "pages" : 1,
+                "elements" : 3611,
+                "height" : 1,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 37,
+                "searchRequests" : 7223,
+                "searchSteps" : 10522,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 32768
+              }
+            },
+            "valueStorageSizeInBytes" : 42058
+          }
+        }
+      },
+      "org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeShortNameIndex" : {
+        "statsPerPhm" : {
+          "org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeShortNameIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "org.jetbrains.kotlin.idea.stubindex.KotlinJvmNameAnnotationIndex" : {
+        "statsPerPhm" : {
+          "org.jetbrains.kotlin.idea.stubindex.KotlinJvmNameAnnotationIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "org.jetbrains.kotlin.idea.stubindex.KotlinMultifileClassPartIndex" : {
+        "statsPerPhm" : {
+          "org.jetbrains.kotlin.idea.stubindex.KotlinMultifileClassPartIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "org.jetbrains.kotlin.idea.stubindex.KotlinSubclassObjectNameIndex" : {
+        "statsPerPhm" : {
+          "org.jetbrains.kotlin.idea.stubindex.KotlinSubclassObjectNameIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelPropertyByPackageIndex" : {
+        "statsPerPhm" : {
+          "org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelPropertyByPackageIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "org.jetbrains.kotlin.idea.versions.KotlinJsMetadataVersionIndex" : {
+        "statsPerPhm" : {
+          "org.jetbrains.kotlin.idea.versions.KotlinJsMetadataVersionIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "org.jetbrains.kotlin.idea.versions.KotlinJsMetadataVersionIndex_inputs" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex" : {
+        "statsPerPhm" : {
+          "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex_inputs" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "org.jetbrains.kotlin.idea.vfilefinder.KlibMetaFileIndex" : {
+        "statsPerPhm" : {
+          "org.jetbrains.kotlin.idea.vfilefinder.KlibMetaFileIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "org.jetbrains.kotlin.idea.vfilefinder.KlibMetaFileIndex_inputs" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "org.jetbrains.kotlin.idea.vfilefinder.KotlinBuiltInsMetadataIndex" : {
+        "statsPerPhm" : {
+          "org.jetbrains.kotlin.idea.vfilefinder.KotlinBuiltInsMetadataIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "org.jetbrains.kotlin.idea.vfilefinder.KotlinBuiltInsMetadataIndex_inputs" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex" : {
+        "statsPerPhm" : {
+          "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex_inputs" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "org.jetbrains.kotlin.idea.vfilefinder.KotlinJavaScriptMetaFileIndex" : {
+        "statsPerPhm" : {
+          "org.jetbrains.kotlin.idea.vfilefinder.KotlinJavaScriptMetaFileIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "org.jetbrains.kotlin.idea.vfilefinder.KotlinJavaScriptMetaFileIndex_inputs" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "org.jetbrains.kotlin.idea.vfilefinder.KotlinJvmModuleAnnotationsIndex" : {
+        "statsPerPhm" : {
+          "org.jetbrains.kotlin.idea.vfilefinder.KotlinJvmModuleAnnotationsIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "org.jetbrains.kotlin.idea.vfilefinder.KotlinJvmModuleAnnotationsIndex_inputs" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFileIndex" : {
+        "statsPerPhm" : {
+          "org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFileIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFileIndex_inputs" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFilePackageIndex" : {
+        "statsPerPhm" : {
+          "org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFilePackageIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFilePackageIndex_inputs" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "org.jetbrains.kotlin.idea.vfilefinder.KotlinModuleMappingIndex" : {
+        "statsPerPhm" : {
+          "org.jetbrains.kotlin.idea.vfilefinder.KotlinModuleMappingIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "org.jetbrains.kotlin.idea.vfilefinder.KotlinModuleMappingIndex_inputs" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "org.jetbrains.kotlin.idea.vfilefinder.KotlinPackageSourcesMemberNamesIndex" : {
+        "statsPerPhm" : {
+          "org.jetbrains.kotlin.idea.vfilefinder.KotlinPackageSourcesMemberNamesIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "org.jetbrains.kotlin.idea.vfilefinder.KotlinPackageSourcesMemberNamesIndex_inputs" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "org.jetbrains.kotlin.idea.vfilefinder.KotlinPartialPackageNamesIndex" : {
+        "statsPerPhm" : {
+          "org.jetbrains.kotlin.idea.vfilefinder.KotlinPartialPackageNamesIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "org.jetbrains.kotlin.idea.vfilefinder.KotlinPartialPackageNamesIndex_inputs" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex" : {
+        "statsPerPhm" : {
+          "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex_inputs" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "xmlProperties" : {
+        "statsPerPhm" : {
+          "xmlProperties.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "xmlProperties_inputs" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      },
+      "yaml.keys.name" : {
+        "statsPerPhm" : {
+          "yaml.keys.name.storage" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : 0,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          },
+          "yaml.keys.name_inputs" : {
+            "persistentEnumeratorStatistics" : {
+              "collisions" : 0,
+              "values" : 0,
+              "dataFileSizeInBytes" : -1,
+              "storageSizeInBytes" : 96,
+              "btreeStatistics" : {
+                "pages" : 0,
+                "elements" : 0,
+                "height" : 0,
+                "moves" : 0,
+                "leafPages" : 1,
+                "maxSearchStepsInRequest" : 0,
+                "searchRequests" : 0,
+                "searchSteps" : 0,
+                "pageCapacity" : 32768,
+                "sizeInBytes" : 0
+              }
+            },
+            "valueStorageSizeInBytes" : 0
+          }
+        }
+      }
+    },
+    "otherStoragesStats" : {
+      "statsPerPhm" : {
+        "shared_indexes\\shared.index.hashes.BindingXmlIndex\\shared.index.hashes.BindingXmlIndex_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.DomFileIndex\\shared.index.hashes.DomFileIndex_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.FrameworkDetectionIndex\\shared.index.hashes.FrameworkDetectionIndex_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.IdIndex\\shared.index.hashes.IdIndex_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.IdeaPluginRegistrationIndex\\shared.index.hashes.IdeaPluginRegistrationIndex_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.JavaFxControllerClassIndex\\shared.index.hashes.JavaFxControllerClassIndex_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.LombokConfigIndex\\shared.index.hashes.LombokConfigIndex_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.NavXmlIndex\\shared.index.hashes.NavXmlIndex_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.PluginIdDependenciesIndex\\shared.index.hashes.PluginIdDependenciesIndex_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.PluginIdModuleIndex\\shared.index.hashes.PluginIdModuleIndex_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.RelaxSymbolIndex\\shared.index.hashes.RelaxSymbolIndex_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.SchemaTypeInheritance\\shared.index.hashes.SchemaTypeInheritance_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.Stubs\\shared.index.hashes.Stubs_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.TodoIndex\\shared.index.hashes.TodoIndex_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.Trigram.Index\\shared.index.hashes.Trigram.Index_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.XmlNamespaces\\shared.index.hashes.XmlNamespaces_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.XmlTagNames\\shared.index.hashes.XmlTagNames_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.XsltSymbolIndex\\shared.index.hashes.XsltSymbolIndex_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.ant-imports\\shared.index.hashes.ant-imports_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.bytecodeAnalysis\\shared.index.hashes.bytecodeAnalysis_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME\\shared.index.hashes.com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.com.intellij.uiDesigner.FormClassIndex\\shared.index.hashes.com.intellij.uiDesigner.FormClassIndex_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.devkit.ExtensionPointClassIndex\\shared.index.hashes.devkit.ExtensionPointClassIndex_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.devkit.ExtensionPointIndex\\shared.index.hashes.devkit.ExtensionPointIndex_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.editorconfig.index.name\\shared.index.hashes.editorconfig.index.name_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.fileIncludes\\shared.index.hashes.fileIncludes_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.html5.custom.attributes.index\\shared.index.hashes.html5.custom.attributes.index_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.java.binary.plus.expression\\shared.index.hashes.java.binary.plus.expression_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.java.fun.expression\\shared.index.hashes.java.fun.expression_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.java.null.method.argument\\shared.index.hashes.java.null.method.argument_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.java.source.module.name\\shared.index.hashes.java.source.module.name_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.javafx.custom.component\\shared.index.hashes.javafx.custom.component_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.javafx.id.name\\shared.index.hashes.javafx.id.name_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.json.file.root.values\\shared.index.hashes.json.file.root.values_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.org.jetbrains.kotlin.idea.versions.KotlinJsMetadataVersionIndex\\shared.index.hashes.org.jetbrains.kotlin.idea.versions.KotlinJsMetadataVersionIndex_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex\\shared.index.hashes.org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.org.jetbrains.kotlin.idea.vfilefinder.KlibMetaFileIndex\\shared.index.hashes.org.jetbrains.kotlin.idea.vfilefinder.KlibMetaFileIndex_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.org.jetbrains.kotlin.idea.vfilefinder.KotlinBuiltInsMetadataIndex\\shared.index.hashes.org.jetbrains.kotlin.idea.vfilefinder.KotlinBuiltInsMetadataIndex_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex\\shared.index.hashes.org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.org.jetbrains.kotlin.idea.vfilefinder.KotlinJavaScriptMetaFileIndex\\shared.index.hashes.org.jetbrains.kotlin.idea.vfilefinder.KotlinJavaScriptMetaFileIndex_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.org.jetbrains.kotlin.idea.vfilefinder.KotlinJvmModuleAnnotationsIndex\\shared.index.hashes.org.jetbrains.kotlin.idea.vfilefinder.KotlinJvmModuleAnnotationsIndex_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFileIndex\\shared.index.hashes.org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFileIndex_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFilePackageIndex\\shared.index.hashes.org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFilePackageIndex_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.org.jetbrains.kotlin.idea.vfilefinder.KotlinModuleMappingIndex\\shared.index.hashes.org.jetbrains.kotlin.idea.vfilefinder.KotlinModuleMappingIndex_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.org.jetbrains.kotlin.idea.vfilefinder.KotlinPackageSourcesMemberNamesIndex\\shared.index.hashes.org.jetbrains.kotlin.idea.vfilefinder.KotlinPackageSourcesMemberNamesIndex_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.org.jetbrains.kotlin.idea.vfilefinder.KotlinPartialPackageNamesIndex\\shared.index.hashes.org.jetbrains.kotlin.idea.vfilefinder.KotlinPartialPackageNamesIndex_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex\\shared.index.hashes.org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.xmlProperties\\shared.index.hashes.xmlProperties_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        },
+        "shared_indexes\\shared.index.hashes.yaml.keys.name\\shared.index.hashes.yaml.keys.name_storage.storage" : {
+          "persistentEnumeratorStatistics" : {
+            "collisions" : 0,
+            "values" : 0,
+            "dataFileSizeInBytes" : 0,
+            "storageSizeInBytes" : 96,
+            "btreeStatistics" : {
+              "pages" : 0,
+              "elements" : 0,
+              "height" : 0,
+              "moves" : 0,
+              "leafPages" : 1,
+              "maxSearchStepsInRequest" : 0,
+              "searchRequests" : 0,
+              "searchSteps" : 0,
+              "pageCapacity" : 32768,
+              "sizeInBytes" : 0
+            }
+          },
+          "valueStorageSizeInBytes" : 0
+        }
+      },
+      "statsPerEnumerator" : {
+        ".persistent\\textContentHashes" : {
+          "collisions" : 2,
+          "values" : 42112,
+          "dataFileSizeInBytes" : 842240,
+          "storageSizeInBytes" : 144,
+          "btreeStatistics" : {
+            "pages" : 17,
+            "elements" : 42111,
+            "height" : 2,
+            "moves" : 48,
+            "leafPages" : 16,
+            "maxSearchStepsInRequest" : 72,
+            "searchRequests" : 139507,
+            "searchSteps" : 204166,
+            "pageCapacity" : 32768,
+            "sizeInBytes" : 557056
+          }
+        },
+        "rep.names" : {
+          "collisions" : 0,
+          "values" : 155,
+          "dataFileSizeInBytes" : 3472,
+          "storageSizeInBytes" : 96,
+          "btreeStatistics" : {
+            "pages" : 1,
+            "elements" : 155,
+            "height" : 1,
+            "moves" : 0,
+            "leafPages" : 1,
+            "maxSearchStepsInRequest" : 1,
+            "searchRequests" : 464,
+            "searchSteps" : 3,
+            "pageCapacity" : 32768,
+            "sizeInBytes" : 32768
+          }
+        }
+      }
+    }
+  },
+  "otherStorageStats" : {
+    "statsPerPhm" : {
+      "C:\\Users\\Mile\\Desktop\\ai-copilot-plugin\\build\\idea-sandbox\\system\\Maven\\Indices\\Index0\\data0\\archetypes-map.dat" : {
+        "persistentEnumeratorStatistics" : {
+          "collisions" : 0,
+          "values" : 0,
+          "dataFileSizeInBytes" : 0,
+          "storageSizeInBytes" : 96,
+          "btreeStatistics" : {
+            "pages" : 0,
+            "elements" : 0,
+            "height" : 0,
+            "moves" : 0,
+            "leafPages" : 1,
+            "maxSearchStepsInRequest" : 0,
+            "searchRequests" : 0,
+            "searchSteps" : 0,
+            "pageCapacity" : 32768,
+            "sizeInBytes" : 0
+          }
+        },
+        "valueStorageSizeInBytes" : 0
+      },
+      "C:\\Users\\Mile\\Desktop\\ai-copilot-plugin\\build\\idea-sandbox\\system\\Maven\\Indices\\Index0\\data0\\artifactIds-map.dat" : {
+        "persistentEnumeratorStatistics" : {
+          "collisions" : 0,
+          "values" : 349,
+          "dataFileSizeInBytes" : 6172,
+          "storageSizeInBytes" : 2920,
+          "btreeStatistics" : {
+            "pages" : 1,
+            "elements" : 349,
+            "height" : 1,
+            "moves" : 0,
+            "leafPages" : 1,
+            "maxSearchStepsInRequest" : 2,
+            "searchRequests" : 697,
+            "searchSteps" : 28,
+            "pageCapacity" : 32768,
+            "sizeInBytes" : 32768
+          }
+        },
+        "valueStorageSizeInBytes" : 24472
+      },
+      "C:\\Users\\Mile\\Desktop\\ai-copilot-plugin\\build\\idea-sandbox\\system\\Maven\\Indices\\Index0\\data0\\versions-map.dat" : {
+        "persistentEnumeratorStatistics" : {
+          "collisions" : 0,
+          "values" : 1180,
+          "dataFileSizeInBytes" : 43120,
+          "storageSizeInBytes" : 9584,
+          "btreeStatistics" : {
+            "pages" : 1,
+            "elements" : 1180,
+            "height" : 1,
+            "moves" : 0,
+            "leafPages" : 1,
+            "maxSearchStepsInRequest" : 4,
+            "searchRequests" : 2359,
+            "searchSteps" : 420,
+            "pageCapacity" : 32768,
+            "sizeInBytes" : 32768
+          }
+        },
+        "valueStorageSizeInBytes" : 27314
+      },
+      "C:\\Users\\Mile\\Desktop\\ai-copilot-plugin\\build\\idea-sandbox\\system\\Maven\\Indices\\Index1\\data0\\archetypes-map.dat" : {
+        "persistentEnumeratorStatistics" : {
+          "collisions" : 0,
+          "values" : 0,
+          "dataFileSizeInBytes" : 0,
+          "storageSizeInBytes" : 96,
+          "btreeStatistics" : {
+            "pages" : 0,
+            "elements" : 0,
+            "height" : 0,
+            "moves" : 0,
+            "leafPages" : 1,
+            "maxSearchStepsInRequest" : 0,
+            "searchRequests" : 0,
+            "searchSteps" : 0,
+            "pageCapacity" : 32768,
+            "sizeInBytes" : 0
+          }
+        },
+        "valueStorageSizeInBytes" : 0
+      },
+      "C:\\Users\\Mile\\Desktop\\ai-copilot-plugin\\build\\idea-sandbox\\system\\Maven\\Indices\\Index1\\data0\\artifactIds-map.dat" : {
+        "persistentEnumeratorStatistics" : {
+          "collisions" : 0,
+          "values" : 0,
+          "dataFileSizeInBytes" : 0,
+          "storageSizeInBytes" : 96,
+          "btreeStatistics" : {
+            "pages" : 0,
+            "elements" : 0,
+            "height" : 0,
+            "moves" : 0,
+            "leafPages" : 1,
+            "maxSearchStepsInRequest" : 0,
+            "searchRequests" : 0,
+            "searchSteps" : 0,
+            "pageCapacity" : 32768,
+            "sizeInBytes" : 0
+          }
+        },
+        "valueStorageSizeInBytes" : 0
+      },
+      "C:\\Users\\Mile\\Desktop\\ai-copilot-plugin\\build\\idea-sandbox\\system\\Maven\\Indices\\Index1\\data0\\versions-map.dat" : {
+        "persistentEnumeratorStatistics" : {
+          "collisions" : 0,
+          "values" : 0,
+          "dataFileSizeInBytes" : 0,
+          "storageSizeInBytes" : 96,
+          "btreeStatistics" : {
+            "pages" : 0,
+            "elements" : 0,
+            "height" : 0,
+            "moves" : 0,
+            "leafPages" : 1,
+            "maxSearchStepsInRequest" : 0,
+            "searchRequests" : 0,
+            "searchSteps" : 0,
+            "pageCapacity" : 32768,
+            "sizeInBytes" : 0
+          }
+        },
+        "valueStorageSizeInBytes" : 0
+      },
+      "C:\\Users\\Mile\\Desktop\\ai-copilot-plugin\\build\\idea-sandbox\\system\\frameworks\\detection\\ai.a46b2356\\files" : {
+        "persistentEnumeratorStatistics" : {
+          "collisions" : 0,
+          "values" : 0,
+          "dataFileSizeInBytes" : 0,
+          "storageSizeInBytes" : 96,
+          "btreeStatistics" : {
+            "pages" : 0,
+            "elements" : 0,
+            "height" : 0,
+            "moves" : 0,
+            "leafPages" : 1,
+            "maxSearchStepsInRequest" : 0,
+            "searchRequests" : 0,
+            "searchSteps" : 0,
+            "pageCapacity" : 32768,
+            "sizeInBytes" : 0
+          }
+        },
+        "valueStorageSizeInBytes" : 0
+      }
+    }
+  }
+}

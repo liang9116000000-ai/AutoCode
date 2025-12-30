@@ -1,0 +1,5 @@
+<application>
+  <component name="DeepSeekSettings">
+    <option name="model" value="deepseek-reasoner" />
+  </component>
+</application>

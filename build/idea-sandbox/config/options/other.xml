@@ -1,0 +1,49 @@
+<application>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "Notification.DisplayName-DoNotAsk-Download Shared Index": "Shared indexes available",
+    "Notification.DisplayName-DoNotAsk-Language Plugins Notifications": "Recommended language plugin available",
+    "Notification.DoNotAsk-Download Shared Index": "true",
+    "Notification.DoNotAsk-Language Plugins Notifications": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "bundled.plugins.list.saved.version": "IC-223.7571.182",
+    "eclipse.projects.detected": "",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "gotit.previous.run": "IC-223.7571.182",
+    "ide.memory.adjusted": "true",
+    "installed.kotlin.plugin.version": "223-1.7.20-release-201-IJ7571.182",
+    "last_opened_file_path": "C:/Users/Mile/Desktop/ai",
+    "previousColorScheme": "_@user_Darcula",
+    "registry.to.advanced.settings.migration.build": "IC-223.7571.182",
+    "tasks.pass.word.conversion.enforced": "true"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "C:/Users/Mile/Desktop/ai"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector",
+      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="ShownTips"><![CDATA[{
+  "shownTips": {
+    "CtrlW": 1767055441153,
+    "Rename": 1767055443208,
+    "FocusProjectToolWindow": 1767055438024,
+    "SearchEverywhere": 1767011785573,
+    "CommentCode": 1767055439690,
+    "FindReplaceToggle": 1767055444538,
+    "ShowUsages": 1767055425940,
+    "ContextActions": 1767055442426,
+    "FindInPath": 1767055445498
+  }
+}]]></component>
+</application>
