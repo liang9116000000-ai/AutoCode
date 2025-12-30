@@ -1,36 +1,36 @@
 {
   "pageCacheStats" : {
     "cachedChannelsStatistics" : {
-      "hit" : 537,
+      "hit" : 511,
       "miss" : 0,
-      "load" : 101,
+      "load" : 99,
       "capacity" : 400
     },
     "uncachedFileAccess" : 149,
     "maxRegisteredFiles" : 621,
-    "maxCacheSizeInBytes" : 269574144,
-    "pageHit" : 3363,
-    "pageFastCacheHit" : 748049,
+    "maxCacheSizeInBytes" : 264200192,
+    "pageHit" : 3106,
+    "pageFastCacheHit" : 699429,
     "pageMiss" : 0,
-    "pageLoad" : 770,
-    "disposedBuffers" : 241,
+    "pageLoad" : 749,
+    "disposedBuffers" : 239,
     "capacityInBytes" : 524288000
   },
   "vfsStorageStats" : {
     "statsPerEnumerator" : {
       "contentHashes.dat" : {
         "collisions" : 0,
-        "values" : 3,
-        "dataFileSizeInBytes" : 60,
+        "values" : 1,
+        "dataFileSizeInBytes" : 20,
         "storageSizeInBytes" : 96,
         "btreeStatistics" : {
           "pages" : 1,
-          "elements" : 3,
+          "elements" : 1,
           "height" : 1,
           "moves" : 0,
           "leafPages" : 1,
           "maxSearchStepsInRequest" : 0,
-          "searchRequests" : 5,
+          "searchRequests" : 2,
           "searchSteps" : 0,
           "pageCapacity" : 32768,
           "sizeInBytes" : 32768
@@ -38,20 +38,20 @@
       },
       "names.dat" : {
         "collisions" : 4,
-        "values" : 77346,
-        "dataFileSizeInBytes" : 2316030,
+        "values" : 40593,
+        "dataFileSizeInBytes" : 1017592,
         "storageSizeInBytes" : 160,
         "btreeStatistics" : {
-          "pages" : 33,
-          "elements" : 77343,
+          "pages" : 17,
+          "elements" : 40590,
           "height" : 2,
-          "moves" : 255,
-          "leafPages" : 32,
-          "maxSearchStepsInRequest" : 76,
-          "searchRequests" : 284895,
-          "searchSteps" : 412772,
+          "moves" : 58,
+          "leafPages" : 16,
+          "maxSearchStepsInRequest" : 70,
+          "searchRequests" : 141608,
+          "searchSteps" : 203573,
           "pageCapacity" : 32768,
-          "sizeInBytes" : 1081344
+          "sizeInBytes" : 557056
         }
       }
     }

@@ -1,38 +1,38 @@
 <application>
-  <component name="PropertyService"><![CDATA[{
-  "keyToString": {
-    "CWM_LOGGING_VERSION": "1",
-    "Notification.DisplayName-DoNotAsk-Download Shared Index": "Shared indexes available",
-    "Notification.DisplayName-DoNotAsk-Language Plugins Notifications": "Recommended language plugin available",
-    "Notification.DoNotAsk-Download Shared Index": "true",
-    "Notification.DoNotAsk-Language Plugins Notifications": "true",
-    "RunOnceActivity.se.text.search": "true",
-    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
-    "bundled.plugins.list.saved.version": "IC-223.7571.182",
-    "eclipse.projects.detected": "",
-    "fileTypeChangedCounter": "1",
-    "fontSizeToResetConsole": "13.0",
-    "fontSizeToResetEditor": "13.0",
-    "gotit.previous.run": "IC-223.7571.182",
-    "ide.memory.adjusted": "true",
-    "installed.kotlin.plugin.version": "223-1.7.20-release-201-IJ7571.182",
-    "last_opened_file_path": "C:/Users/Mile/Desktop/ai",
-    "previousColorScheme": "_@user_Darcula",
-    "registry.to.advanced.settings.migration.build": "IC-223.7571.182",
-    "tasks.pass.word.conversion.enforced": "true"
+  <component name="PropertyService">{
+  &quot;keyToString&quot;: {
+    &quot;CWM_LOGGING_VERSION&quot;: &quot;1&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-Download Shared Index&quot;: &quot;Shared indexes available&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-Language Plugins Notifications&quot;: &quot;Recommended language plugin available&quot;,
+    &quot;Notification.DoNotAsk-Download Shared Index&quot;: &quot;true&quot;,
+    &quot;Notification.DoNotAsk-Language Plugins Notifications&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.se.text.search&quot;: &quot;true&quot;,
+    &quot;build.toolwindow.Sync.selection.state&quot;: &quot;com.intellij.build.BuildTreeConsoleView&quot;,
+    &quot;bundled.plugins.list.saved.version&quot;: &quot;IC-223.7571.182&quot;,
+    &quot;eclipse.projects.detected&quot;: &quot;&quot;,
+    &quot;fileTypeChangedCounter&quot;: &quot;1&quot;,
+    &quot;fontSizeToResetConsole&quot;: &quot;13.0&quot;,
+    &quot;fontSizeToResetEditor&quot;: &quot;13.0&quot;,
+    &quot;gotit.previous.run&quot;: &quot;IC-223.7571.182&quot;,
+    &quot;ide.memory.adjusted&quot;: &quot;true&quot;,
+    &quot;installed.kotlin.plugin.version&quot;: &quot;223-1.7.20-release-201-IJ7571.182&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mile/Desktop/ai&quot;,
+    &quot;previousColorScheme&quot;: &quot;_@user_Darcula&quot;,
+    &quot;registry.to.advanced.settings.migration.build&quot;: &quot;IC-223.7571.182&quot;,
+    &quot;tasks.pass.word.conversion.enforced&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "file.chooser.recent.files": [
-      "C:/Users/Mile/Desktop/ai"
+  &quot;keyToStringList&quot;: {
+    &quot;file.chooser.recent.files&quot;: [
+      &quot;C:/Users/Mile/Desktop/ai&quot;
     ],
-    "fileTypeDetectors": [
-      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
-      "com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector",
-      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
-      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    &quot;fileTypeDetectors&quot;: [
+      &quot;com.intellij.ide.scratch.ScratchFileServiceImpl$Detector&quot;,
+      &quot;com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector&quot;,
+      &quot;com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector&quot;,
+      &quot;org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="ShownTips"><![CDATA[{
   "shownTips": {
     "CtrlW": 1767055441153,
@@ -40,8 +40,8 @@
     "FocusProjectToolWindow": 1767055438024,
     "SearchEverywhere": 1767011785573,
     "CommentCode": 1767055439690,
-    "FindReplaceToggle": 1767055444538,
     "ShowUsages": 1767055425940,
+    "FindReplaceToggle": 1767055444538,
     "ContextActions": 1767055442426,
     "FindInPath": 1767055445498
   }

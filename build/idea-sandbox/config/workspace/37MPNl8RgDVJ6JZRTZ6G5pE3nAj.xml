@@ -20,8 +20,11 @@
     </leaf>
   </component>
   <component name="FileTypeUsageLocalSummary">
+    <fileType name="DIFF">
+      <summary usageCount="4" lastUsed="1767063756167" />
+    </fileType>
     <fileType name="XML">
-      <summary usageCount="7" lastUsed="1767055403658" />
+      <summary usageCount="12" lastUsed="1767066162995" />
     </fileType>
   </component>
   <component name="IgnoredFileRootStore">
@@ -33,7 +36,7 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="XML">
-      <summary usageCount="7" lastUsage="1767055404006" />
+      <summary usageCount="12" lastUsage="1767066162998" />
     </language>
   </component>
   <component name="MavenProjectNavigator">
@@ -89,7 +92,7 @@
       <window_info anchor="bottom" id="Build" order="9" />
       <window_info anchor="bottom" id="Dependencies" order="10" />
       <window_info anchor="right" id="Maven" order="0" weight="0.32984102" />
-      <window_info active="true" anchor="right" id="DeepSeek Code" order="1" visible="true" weight="0.33345377" />
+      <window_info active="true" anchor="right" id="DeepSeek Code" order="1" visible="true" weight="0.3175578" />
       <window_info anchor="right" id="Notifications" order="2" weight="0.25036126" />
     </layout>
     <recentWindows>

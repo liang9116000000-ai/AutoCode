@@ -1,10 +1,10 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="EditorBackSpace">
-      <i c="35" l="1767015219168" />
+      <i c="66" l="1767066193339" />
     </e>
     <e n="EditorCopy">
-      <i c="1" l="1767010914446" />
+      <i c="3" l="1767060616748" />
     </e>
     <e n="EditorCut">
       <i c="1" l="1767012382946" />
@@ -27,8 +27,11 @@
     <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
       <i c="3" l="1767055714767" />
     </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="3" l="1767063595267" />
+    </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="1" l="1767010398084" />
+      <i c="2" l="1767060573843" />
     </e>
   </component>
 </application>

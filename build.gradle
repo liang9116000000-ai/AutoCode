@@ -33,6 +33,10 @@ tasks {
     instrumentCode {
         enabled = false
     }
+    
+    initializeIntelliJPlugin {
+        enabled = false
+    }
 }
 
 compileKotlin {
